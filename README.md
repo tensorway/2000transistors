@@ -9,8 +9,8 @@ The project is made in Kicad. If you want to learn more about it visit [howcpuwo
 - all transistors on a board point into the same direction (or 2 perpendicular ones if needed)
 - all leds point into the same direction
 - 1k resistors are labeled with white rectangle, 1M with empty one (only violation is in the Clock board and two voltage divider resistors in LCD board)
-- * means high significance bits
-- + means positive 5V
+- "*" means high significance bits
+- "+" means positive 5V
 
 ## Tips
 - you dont need to use extra usb for the power, powering through arduino is enough
@@ -22,8 +22,14 @@ The project is made in Kicad. If you want to learn more about it visit [howcpuwo
   - leds and pin headers last
 
 ## Important
-- to lower costs all registers have the same board, but TMP and IR register do not have input and output connected to the bus, this means you have to connect it on other registers
+- to lower costs all registers have the same board, but TMP and IR registers do not have input and output connected to the bus, this means you have to connect it on other registers
 - You need to find the voltage that works for your LCD contrast and put those resistors
+
+## Components
+- 2N7000 MOSFETs
+- BC547 (BJT) only 4 for the astable
+- 1000 ohm registers for leds
+- 1M ohm for logic
 
 ## Bugs
 
