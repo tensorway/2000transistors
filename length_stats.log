@@ -1,0 +1,10 @@
+01-09 21:01:46 length_stats.action_length_stats 304:Plugin executed on: 'linux'
+01-09 21:01:46 length_stats.action_length_stats 305:Plugin executed with python version: '3.8.10 (default, Nov 14 2022, 12:59:47) \n[GCC 9.4.0]'
+01-09 21:01:46 length_stats.action_length_stats 306:KiCad build version: Unknown
+01-09 21:01:46 length_stats.action_length_stats 307:Length stats plugin version: 30 started
+01-09 21:01:46 STDERR 345:/home/darijan/.kicad_plugins/length_stats/action_length_stats.py:55: wxPyDeprecationWarning: Call to deprecated item. Use SetSizeHints instead.
+01-09 21:01:46 STDERR 345:  self.SetSizeHintsSz(sz1, sz2)
+01-09 21:01:46 length_stats.action_length_stats 207:Sorting list
+01-09 21:01:46 length_stats.action_length_stats 95:Length stats gui initialized
+01-09 21:01:46 length_stats.action_length_stats 96:Nets for stats are;
+[]

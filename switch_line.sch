@@ -1,0 +1,468 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 11 38
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push_DPDT SW?
+U 1 1 63BB5263
+P 4400 2050
+AR Path="/63BB0AF5/63BB5263" Ref="SW?"  Part="1" 
+AR Path="/63BF083B/63BB5263" Ref="SW?"  Part="1" 
+AR Path="/63BF0CC7/63BB5263" Ref="SW?"  Part="1" 
+AR Path="/63BF0CD1/63BB5263" Ref="SW?"  Part="1" 
+AR Path="/63BF18F7/63BB5263" Ref="SW?"  Part="1" 
+AR Path="/63BF1901/63BB5263" Ref="SW?"  Part="1" 
+AR Path="/63BF190B/63BB5263" Ref="SW?"  Part="1" 
+AR Path="/63BF1915/63BB5263" Ref="SW?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BB5263" Ref="SW5"  Part="1" 
+AR Path="/63C1613B/63C19002/63BB5263" Ref="SW12"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BB5263" Ref="SW19"  Part="1" 
+AR Path="/63C1613B/63C19016/63BB5263" Ref="SW26"  Part="1" 
+AR Path="/63C1613B/63C19020/63BB5263" Ref="SW33"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BB5263" Ref="SW40"  Part="1" 
+AR Path="/63C1613B/63C19034/63BB5263" Ref="SW47"  Part="1" 
+F 0 "SW5" H 4400 2535 50  0000 C CNN
+F 1 "SW_Push_DPDT" H 4400 2444 50  0000 C CNN
+F 2 "processor2:dpdt_switch" H 4400 2250 50  0001 C CNN
+F 3 "~" H 4400 2250 50  0001 C CNN
+	1    4400 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push_DPDT SW?
+U 1 1 63BB78FD
+P 4400 3450
+AR Path="/63BB0AF5/63BB78FD" Ref="SW?"  Part="1" 
+AR Path="/63BF083B/63BB78FD" Ref="SW?"  Part="1" 
+AR Path="/63BF0CC7/63BB78FD" Ref="SW?"  Part="1" 
+AR Path="/63BF0CD1/63BB78FD" Ref="SW?"  Part="1" 
+AR Path="/63BF18F7/63BB78FD" Ref="SW?"  Part="1" 
+AR Path="/63BF1901/63BB78FD" Ref="SW?"  Part="1" 
+AR Path="/63BF190B/63BB78FD" Ref="SW?"  Part="1" 
+AR Path="/63BF1915/63BB78FD" Ref="SW?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BB78FD" Ref="SW6"  Part="1" 
+AR Path="/63C1613B/63C19002/63BB78FD" Ref="SW13"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BB78FD" Ref="SW20"  Part="1" 
+AR Path="/63C1613B/63C19016/63BB78FD" Ref="SW27"  Part="1" 
+AR Path="/63C1613B/63C19020/63BB78FD" Ref="SW34"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BB78FD" Ref="SW41"  Part="1" 
+AR Path="/63C1613B/63C19034/63BB78FD" Ref="SW48"  Part="1" 
+F 0 "SW6" H 4400 3935 50  0000 C CNN
+F 1 "SW_Push_DPDT" H 4400 3844 50  0000 C CNN
+F 2 "processor2:dpdt_switch" H 4400 3650 50  0001 C CNN
+F 3 "~" H 4400 3650 50  0001 C CNN
+	1    4400 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push_DPDT SW?
+U 1 1 63BB8C13
+P 4350 7350
+AR Path="/63BB0AF5/63BB8C13" Ref="SW?"  Part="1" 
+AR Path="/63BF083B/63BB8C13" Ref="SW?"  Part="1" 
+AR Path="/63BF0CC7/63BB8C13" Ref="SW?"  Part="1" 
+AR Path="/63BF0CD1/63BB8C13" Ref="SW?"  Part="1" 
+AR Path="/63BF18F7/63BB8C13" Ref="SW?"  Part="1" 
+AR Path="/63BF1901/63BB8C13" Ref="SW?"  Part="1" 
+AR Path="/63BF190B/63BB8C13" Ref="SW?"  Part="1" 
+AR Path="/63BF1915/63BB8C13" Ref="SW?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BB8C13" Ref="SW2"  Part="1" 
+AR Path="/63C1613B/63C19002/63BB8C13" Ref="SW9"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BB8C13" Ref="SW16"  Part="1" 
+AR Path="/63C1613B/63C19016/63BB8C13" Ref="SW23"  Part="1" 
+AR Path="/63C1613B/63C19020/63BB8C13" Ref="SW30"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BB8C13" Ref="SW37"  Part="1" 
+AR Path="/63C1613B/63C19034/63BB8C13" Ref="SW44"  Part="1" 
+F 0 "SW2" H 4350 7835 50  0000 C CNN
+F 1 "SW_Push_DPDT" H 4350 7744 50  0000 C CNN
+F 2 "processor2:dpdt_switch" H 4350 7550 50  0001 C CNN
+F 3 "~" H 4350 7550 50  0001 C CNN
+	1    4350 7350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push_DPDT SW?
+U 1 1 63BB88B0
+P 4350 6000
+AR Path="/63BB0AF5/63BB88B0" Ref="SW?"  Part="1" 
+AR Path="/63BF083B/63BB88B0" Ref="SW?"  Part="1" 
+AR Path="/63BF0CC7/63BB88B0" Ref="SW?"  Part="1" 
+AR Path="/63BF0CD1/63BB88B0" Ref="SW?"  Part="1" 
+AR Path="/63BF18F7/63BB88B0" Ref="SW?"  Part="1" 
+AR Path="/63BF1901/63BB88B0" Ref="SW?"  Part="1" 
+AR Path="/63BF190B/63BB88B0" Ref="SW?"  Part="1" 
+AR Path="/63BF1915/63BB88B0" Ref="SW?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BB88B0" Ref="SW1"  Part="1" 
+AR Path="/63C1613B/63C19002/63BB88B0" Ref="SW8"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BB88B0" Ref="SW15"  Part="1" 
+AR Path="/63C1613B/63C19016/63BB88B0" Ref="SW22"  Part="1" 
+AR Path="/63C1613B/63C19020/63BB88B0" Ref="SW29"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BB88B0" Ref="SW36"  Part="1" 
+AR Path="/63C1613B/63C19034/63BB88B0" Ref="SW43"  Part="1" 
+F 0 "SW1" H 4350 6485 50  0000 C CNN
+F 1 "SW_Push_DPDT" H 4350 6394 50  0000 C CNN
+F 2 "processor2:dpdt_switch" H 4350 6200 50  0001 C CNN
+F 3 "~" H 4350 6200 50  0001 C CNN
+	1    4350 6000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push_DPDT SW?
+U 1 1 63BB7D12
+P 4400 4750
+AR Path="/63BB0AF5/63BB7D12" Ref="SW?"  Part="1" 
+AR Path="/63BF083B/63BB7D12" Ref="SW?"  Part="1" 
+AR Path="/63BF0CC7/63BB7D12" Ref="SW?"  Part="1" 
+AR Path="/63BF0CD1/63BB7D12" Ref="SW?"  Part="1" 
+AR Path="/63BF18F7/63BB7D12" Ref="SW?"  Part="1" 
+AR Path="/63BF1901/63BB7D12" Ref="SW?"  Part="1" 
+AR Path="/63BF190B/63BB7D12" Ref="SW?"  Part="1" 
+AR Path="/63BF1915/63BB7D12" Ref="SW?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BB7D12" Ref="SW7"  Part="1" 
+AR Path="/63C1613B/63C19002/63BB7D12" Ref="SW14"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BB7D12" Ref="SW21"  Part="1" 
+AR Path="/63C1613B/63C19016/63BB7D12" Ref="SW28"  Part="1" 
+AR Path="/63C1613B/63C19020/63BB7D12" Ref="SW35"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BB7D12" Ref="SW42"  Part="1" 
+AR Path="/63C1613B/63C19034/63BB7D12" Ref="SW49"  Part="1" 
+F 0 "SW7" H 4400 5235 50  0000 C CNN
+F 1 "SW_Push_DPDT" H 4400 5144 50  0000 C CNN
+F 2 "processor2:dpdt_switch" H 4400 4950 50  0001 C CNN
+F 3 "~" H 4400 4950 50  0001 C CNN
+	1    4400 4750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push_DPDT SW?
+U 1 1 63BBCC18
+P 4350 9950
+AR Path="/63BB0AF5/63BBCC18" Ref="SW?"  Part="1" 
+AR Path="/63BF083B/63BBCC18" Ref="SW?"  Part="1" 
+AR Path="/63BF0CC7/63BBCC18" Ref="SW?"  Part="1" 
+AR Path="/63BF0CD1/63BBCC18" Ref="SW?"  Part="1" 
+AR Path="/63BF18F7/63BBCC18" Ref="SW?"  Part="1" 
+AR Path="/63BF1901/63BBCC18" Ref="SW?"  Part="1" 
+AR Path="/63BF190B/63BBCC18" Ref="SW?"  Part="1" 
+AR Path="/63BF1915/63BBCC18" Ref="SW?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BBCC18" Ref="SW4"  Part="1" 
+AR Path="/63C1613B/63C19002/63BBCC18" Ref="SW11"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BBCC18" Ref="SW18"  Part="1" 
+AR Path="/63C1613B/63C19016/63BBCC18" Ref="SW25"  Part="1" 
+AR Path="/63C1613B/63C19020/63BBCC18" Ref="SW32"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BBCC18" Ref="SW39"  Part="1" 
+AR Path="/63C1613B/63C19034/63BBCC18" Ref="SW46"  Part="1" 
+F 0 "SW4" H 4350 10435 50  0000 C CNN
+F 1 "SW_Push_DPDT" H 4350 10344 50  0000 C CNN
+F 2 "processor2:dpdt_switch" H 4350 10150 50  0001 C CNN
+F 3 "~" H 4350 10150 50  0001 C CNN
+	1    4350 9950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push_DPDT SW?
+U 1 1 63BBCC1E
+P 4350 8600
+AR Path="/63BB0AF5/63BBCC1E" Ref="SW?"  Part="1" 
+AR Path="/63BF083B/63BBCC1E" Ref="SW?"  Part="1" 
+AR Path="/63BF0CC7/63BBCC1E" Ref="SW?"  Part="1" 
+AR Path="/63BF0CD1/63BBCC1E" Ref="SW?"  Part="1" 
+AR Path="/63BF18F7/63BBCC1E" Ref="SW?"  Part="1" 
+AR Path="/63BF1901/63BBCC1E" Ref="SW?"  Part="1" 
+AR Path="/63BF190B/63BBCC1E" Ref="SW?"  Part="1" 
+AR Path="/63BF1915/63BBCC1E" Ref="SW?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BBCC1E" Ref="SW3"  Part="1" 
+AR Path="/63C1613B/63C19002/63BBCC1E" Ref="SW10"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BBCC1E" Ref="SW17"  Part="1" 
+AR Path="/63C1613B/63C19016/63BBCC1E" Ref="SW24"  Part="1" 
+AR Path="/63C1613B/63C19020/63BBCC1E" Ref="SW31"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BBCC1E" Ref="SW38"  Part="1" 
+AR Path="/63C1613B/63C19034/63BBCC1E" Ref="SW45"  Part="1" 
+F 0 "SW3" H 4350 9085 50  0000 C CNN
+F 1 "SW_Push_DPDT" H 4350 8994 50  0000 C CNN
+F 2 "processor2:dpdt_switch" H 4350 8800 50  0001 C CNN
+F 3 "~" H 4350 8800 50  0001 C CNN
+	1    4350 8600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4200 1850 3850 1850
+Wire Wire Line
+	3850 1850 3850 3250
+Wire Wire Line
+	3850 9750 4150 9750
+Wire Wire Line
+	4150 8400 3850 8400
+Connection ~ 3850 8400
+Wire Wire Line
+	3850 8400 3850 9750
+Wire Wire Line
+	4150 7150 3850 7150
+Connection ~ 3850 7150
+Wire Wire Line
+	3850 7150 3850 8400
+Wire Wire Line
+	4150 5800 3850 5800
+Connection ~ 3850 5800
+Wire Wire Line
+	3850 5800 3850 7150
+Wire Wire Line
+	4200 4550 3850 4550
+Connection ~ 3850 4550
+Wire Wire Line
+	3850 4550 3850 5800
+Wire Wire Line
+	4200 3250 3850 3250
+Connection ~ 3850 3250
+Wire Wire Line
+	3850 3250 3850 4550
+$Comp
+L power:+5V #PWR?
+U 1 1 63BC5035
+P 3850 950
+AR Path="/63BB0AF5/63BC5035" Ref="#PWR?"  Part="1" 
+AR Path="/63BF083B/63BC5035" Ref="#PWR?"  Part="1" 
+AR Path="/63BF0CC7/63BC5035" Ref="#PWR?"  Part="1" 
+AR Path="/63BF0CD1/63BC5035" Ref="#PWR?"  Part="1" 
+AR Path="/63BF18F7/63BC5035" Ref="#PWR?"  Part="1" 
+AR Path="/63BF1901/63BC5035" Ref="#PWR?"  Part="1" 
+AR Path="/63BF190B/63BC5035" Ref="#PWR?"  Part="1" 
+AR Path="/63BF1915/63BC5035" Ref="#PWR?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BC5035" Ref="#PWR06"  Part="1" 
+AR Path="/63C1613B/63C19002/63BC5035" Ref="#PWR08"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BC5035" Ref="#PWR010"  Part="1" 
+AR Path="/63C1613B/63C19016/63BC5035" Ref="#PWR012"  Part="1" 
+AR Path="/63C1613B/63C19020/63BC5035" Ref="#PWR014"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BC5035" Ref="#PWR016"  Part="1" 
+AR Path="/63C1613B/63C19034/63BC5035" Ref="#PWR018"  Part="1" 
+F 0 "#PWR06" H 3850 800 50  0001 C CNN
+F 1 "+5V" H 3865 1123 50  0000 C CNN
+F 2 "" H 3850 950 50  0001 C CNN
+F 3 "" H 3850 950 50  0001 C CNN
+	1    3850 950 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R?
+U 1 1 63BC5484
+P 3850 1400
+AR Path="/63BB0AF5/63BC5484" Ref="R?"  Part="1" 
+AR Path="/63BF083B/63BC5484" Ref="R?"  Part="1" 
+AR Path="/63BF0CC7/63BC5484" Ref="R?"  Part="1" 
+AR Path="/63BF0CD1/63BC5484" Ref="R?"  Part="1" 
+AR Path="/63BF18F7/63BC5484" Ref="R?"  Part="1" 
+AR Path="/63BF1901/63BC5484" Ref="R?"  Part="1" 
+AR Path="/63BF190B/63BC5484" Ref="R?"  Part="1" 
+AR Path="/63BF1915/63BC5484" Ref="R?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BC5484" Ref="R1"  Part="1" 
+AR Path="/63C1613B/63C19002/63BC5484" Ref="R2"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BC5484" Ref="R3"  Part="1" 
+AR Path="/63C1613B/63C19016/63BC5484" Ref="R4"  Part="1" 
+AR Path="/63C1613B/63C19020/63BC5484" Ref="R5"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BC5484" Ref="R6"  Part="1" 
+AR Path="/63C1613B/63C19034/63BC5484" Ref="R7"  Part="1" 
+F 0 "R1" H 3920 1446 50  0000 L CNN
+F 1 "R" H 3920 1355 50  0000 L CNN
+F 2 "processor2:resistor_tight" V 3780 1400 50  0001 C CNN
+F 3 "~" H 3850 1400 50  0001 C CNN
+	1    3850 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63BC574A
+P 5450 1850
+AR Path="/63BB0AF5/63BC574A" Ref="#PWR?"  Part="1" 
+AR Path="/63BF083B/63BC574A" Ref="#PWR?"  Part="1" 
+AR Path="/63BF0CC7/63BC574A" Ref="#PWR?"  Part="1" 
+AR Path="/63BF0CD1/63BC574A" Ref="#PWR?"  Part="1" 
+AR Path="/63BF18F7/63BC574A" Ref="#PWR?"  Part="1" 
+AR Path="/63BF1901/63BC574A" Ref="#PWR?"  Part="1" 
+AR Path="/63BF190B/63BC574A" Ref="#PWR?"  Part="1" 
+AR Path="/63BF1915/63BC574A" Ref="#PWR?"  Part="1" 
+AR Path="/63C1613B/63C18FF8/63BC574A" Ref="#PWR07"  Part="1" 
+AR Path="/63C1613B/63C19002/63BC574A" Ref="#PWR09"  Part="1" 
+AR Path="/63C1613B/63C1900C/63BC574A" Ref="#PWR011"  Part="1" 
+AR Path="/63C1613B/63C19016/63BC574A" Ref="#PWR013"  Part="1" 
+AR Path="/63C1613B/63C19020/63BC574A" Ref="#PWR015"  Part="1" 
+AR Path="/63C1613B/63C1902A/63BC574A" Ref="#PWR017"  Part="1" 
+AR Path="/63C1613B/63C19034/63BC574A" Ref="#PWR019"  Part="1" 
+F 0 "#PWR07" H 5450 1600 50  0001 C CNN
+F 1 "GND" H 5455 1677 50  0000 C CNN
+F 2 "" H 5450 1850 50  0001 C CNN
+F 3 "" H 5450 1850 50  0001 C CNN
+	1    5450 1850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4600 1950 4950 1950
+Wire Wire Line
+	4950 1950 4950 2350
+Wire Wire Line
+	4950 9850 4550 9850
+Wire Wire Line
+	4550 8500 4950 8500
+Connection ~ 4950 8500
+Wire Wire Line
+	4550 7250 4950 7250
+Connection ~ 4950 7250
+Wire Wire Line
+	4950 7250 4950 7650
+Wire Wire Line
+	4550 5900 4950 5900
+Connection ~ 4950 5900
+Wire Wire Line
+	4950 5900 4950 6300
+Wire Wire Line
+	4600 4650 4950 4650
+Connection ~ 4950 4650
+Wire Wire Line
+	4950 4650 4950 5050
+Wire Wire Line
+	4600 3350 4950 3350
+Connection ~ 4950 3350
+Wire Wire Line
+	4950 3350 4950 3750
+Connection ~ 3850 1850
+Wire Wire Line
+	3850 950  3850 1250
+Wire Wire Line
+	4600 2350 4950 2350
+Connection ~ 4950 2350
+Wire Wire Line
+	4950 2350 4950 3350
+Wire Wire Line
+	4600 3750 4950 3750
+Connection ~ 4950 3750
+Wire Wire Line
+	4950 3750 4950 4650
+Wire Wire Line
+	4600 5050 4950 5050
+Connection ~ 4950 5050
+Wire Wire Line
+	4950 5050 4950 5900
+Wire Wire Line
+	4550 6300 4950 6300
+Connection ~ 4950 6300
+Wire Wire Line
+	4950 6300 4950 7250
+Wire Wire Line
+	4550 10250 4950 10250
+Wire Wire Line
+	4950 10250 4950 9850
+Connection ~ 4950 9850
+Wire Wire Line
+	4550 8900 4950 8900
+Wire Wire Line
+	4950 8500 4950 8900
+Connection ~ 4950 8900
+Wire Wire Line
+	4950 8900 4950 9850
+Wire Wire Line
+	4550 7650 4950 7650
+Connection ~ 4950 7650
+Wire Wire Line
+	4950 7650 4950 8500
+Wire Wire Line
+	4950 1950 4950 1850
+Wire Wire Line
+	4950 1850 5450 1850
+Connection ~ 4950 1950
+Text HLabel 4050 2250 0    50   Input ~ 0
+a
+Text HLabel 4050 3650 0    50   Input ~ 0
+b
+Text HLabel 4050 4950 0    50   Input ~ 0
+c
+Text HLabel 4000 6200 0    50   Input ~ 0
+d
+Text HLabel 4000 7550 0    50   Input ~ 0
+e
+Text HLabel 4000 8800 0    50   Input ~ 0
+f
+Text HLabel 3950 10150 0    50   Input ~ 0
+g
+Wire Wire Line
+	3950 10150 4150 10150
+Wire Wire Line
+	4000 8800 4150 8800
+Wire Wire Line
+	4000 7550 4150 7550
+Wire Wire Line
+	4000 6200 4150 6200
+Wire Wire Line
+	4050 4950 4200 4950
+Wire Wire Line
+	4050 3650 4200 3650
+Wire Wire Line
+	4050 2250 4200 2250
+Text HLabel 4200 1350 2    50   Input ~ 0
+line_out
+Wire Wire Line
+	3850 1550 3850 1600
+Wire Wire Line
+	4200 1600 3850 1600
+Wire Wire Line
+	4200 1350 4200 1600
+Connection ~ 3850 1600
+Wire Wire Line
+	3850 1600 3850 1850
+Wire Wire Line
+	4600 1750 4800 1750
+Wire Wire Line
+	4600 2150 4800 2150
+Wire Wire Line
+	4600 3150 4800 3150
+Wire Wire Line
+	4600 3550 4850 3550
+Wire Wire Line
+	4600 4450 4800 4450
+Wire Wire Line
+	4600 4850 4800 4850
+Wire Wire Line
+	4550 5700 4800 5700
+Wire Wire Line
+	4550 6100 4800 6100
+Wire Wire Line
+	4550 7050 4800 7050
+Wire Wire Line
+	4550 7450 4800 7450
+Wire Wire Line
+	4550 8300 4800 8300
+Wire Wire Line
+	4550 8700 4800 8700
+Wire Wire Line
+	4550 9650 4800 9650
+Wire Wire Line
+	4550 10050 4800 10050
+NoConn ~ 4800 10050
+NoConn ~ 4800 9650
+NoConn ~ 4800 8700
+NoConn ~ 4800 8300
+NoConn ~ 4800 7450
+NoConn ~ 4800 7050
+NoConn ~ 4800 6100
+NoConn ~ 4800 5700
+NoConn ~ 4800 4850
+NoConn ~ 4800 4450
+NoConn ~ 4850 3550
+NoConn ~ 4800 3150
+NoConn ~ 4800 2150
+NoConn ~ 4800 1750
+$Sheet
+S 8900 2250 1350 1650
+U 63E54816
+F0 "Sheet63E54815" 50
+F1 "switch_line7.sch" 50
+$EndSheet
+$EndSCHEMATC

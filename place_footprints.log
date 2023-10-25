@@ -1,0 +1,8 @@
+02-09 23:04:05 place_footprints.action_place_footprints 414:Plugin executed on: 'linux'
+02-09 23:04:05 place_footprints.action_place_footprints 415:Plugin executed with python version: '3.8.10 (default, Nov 14 2022, 12:59:47) \n[GCC 9.4.0]'
+02-09 23:04:05 place_footprints.action_place_footprints 416:KiCad build version: Unknown
+02-09 23:04:05 place_footprints.action_place_footprints 417:Place footprints plugin version: 55 started
+02-09 23:04:09 place_footprints.place_footprints 213:getting project hierarchy from schematics
+02-09 23:04:09 place_footprints.place_footprints 222:getting a list of all footprints on board
+02-09 23:04:09 place_footprints.place_footprints 248:construcing a list of sheets suitable for replication on level:'Sheet63D9F596', file:'umemory_line.sch'
+02-09 23:04:09 place_footprints.place_footprints 281:suitable sheets are:[['sheet63DAA910'], ['sheet63DB6C5D'], ['sheet63DBEA91']]

@@ -1,0 +1,928 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 9
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_DIP_x03 SW?
+U 1 1 63CF6DB3
+P 2000 2350
+AR Path="/63CEBE5C/63CF6DB3" Ref="SW?"  Part="1" 
+AR Path="/63D9F597/63CF6DB3" Ref="SW1"  Part="1" 
+AR Path="/63DA9A3D/63CF6DB3" Ref="SW?"  Part="1" 
+AR Path="/63DAA923/63CF6DB3" Ref="SW6"  Part="1" 
+AR Path="/63DAE98F/63CF6DB3" Ref="SW?"  Part="1" 
+AR Path="/63DB01EC/63CF6DB3" Ref="SW?"  Part="1" 
+AR Path="/63DB6C70/63CF6DB3" Ref="SW16"  Part="1" 
+AR Path="/63DBEAA4/63CF6DB3" Ref="SW11"  Part="1" 
+F 0 "SW1" V 1954 2680 50  0000 L CNN
+F 1 "SW_DIP_x03" V 2045 2680 50  0000 L CNN
+F 2 "processor2:dip3_switch" H 2000 2350 50  0001 C CNN
+F 3 "~" H 2000 2350 50  0001 C CNN
+	1    2000 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_DIP_x03 SW?
+U 1 1 63CF833A
+P 3650 2350
+AR Path="/63CEBE5C/63CF833A" Ref="SW?"  Part="1" 
+AR Path="/63D9F597/63CF833A" Ref="SW2"  Part="1" 
+AR Path="/63DA9A3D/63CF833A" Ref="SW?"  Part="1" 
+AR Path="/63DAA923/63CF833A" Ref="SW7"  Part="1" 
+AR Path="/63DAE98F/63CF833A" Ref="SW?"  Part="1" 
+AR Path="/63DB01EC/63CF833A" Ref="SW?"  Part="1" 
+AR Path="/63DB6C70/63CF833A" Ref="SW17"  Part="1" 
+AR Path="/63DBEAA4/63CF833A" Ref="SW12"  Part="1" 
+F 0 "SW2" V 3604 2680 50  0000 L CNN
+F 1 "SW_DIP_x03" V 3695 2680 50  0000 L CNN
+F 2 "processor2:dip3_switch" H 3650 2350 50  0001 C CNN
+F 3 "~" H 3650 2350 50  0001 C CNN
+	1    3650 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_DIP_x03 SW?
+U 1 1 63CF8883
+P 5150 2350
+AR Path="/63CEBE5C/63CF8883" Ref="SW?"  Part="1" 
+AR Path="/63D9F597/63CF8883" Ref="SW3"  Part="1" 
+AR Path="/63DA9A3D/63CF8883" Ref="SW?"  Part="1" 
+AR Path="/63DAA923/63CF8883" Ref="SW8"  Part="1" 
+AR Path="/63DAE98F/63CF8883" Ref="SW?"  Part="1" 
+AR Path="/63DB01EC/63CF8883" Ref="SW?"  Part="1" 
+AR Path="/63DB6C70/63CF8883" Ref="SW18"  Part="1" 
+AR Path="/63DBEAA4/63CF8883" Ref="SW13"  Part="1" 
+F 0 "SW3" V 5104 2680 50  0000 L CNN
+F 1 "SW_DIP_x03" V 5195 2680 50  0000 L CNN
+F 2 "processor2:dip3_switch" H 5150 2350 50  0001 C CNN
+F 3 "~" H 5150 2350 50  0001 C CNN
+	1    5150 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_DIP_x02 SW?
+U 1 1 63D3F341
+P 6750 2350
+AR Path="/63CEBE5C/63D3F341" Ref="SW?"  Part="1" 
+AR Path="/63D9F597/63D3F341" Ref="SW4"  Part="1" 
+AR Path="/63DA9A3D/63D3F341" Ref="SW?"  Part="1" 
+AR Path="/63DAA923/63D3F341" Ref="SW9"  Part="1" 
+AR Path="/63DAE98F/63D3F341" Ref="SW?"  Part="1" 
+AR Path="/63DB01EC/63D3F341" Ref="SW?"  Part="1" 
+AR Path="/63DB6C70/63D3F341" Ref="SW19"  Part="1" 
+AR Path="/63DBEAA4/63D3F341" Ref="SW14"  Part="1" 
+F 0 "SW4" V 6704 2580 50  0000 L CNN
+F 1 "SW_DIP_x02" V 6795 2580 50  0000 L CNN
+F 2 "processor2:dip2_switch" H 6750 2350 50  0001 C CNN
+F 3 "~" H 6750 2350 50  0001 C CNN
+	1    6750 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L Switch:SW_DIP_x05 SW?
+U 1 1 63D40357
+P 8250 2350
+AR Path="/63CEBE5C/63D40357" Ref="SW?"  Part="1" 
+AR Path="/63D9F597/63D40357" Ref="SW5"  Part="1" 
+AR Path="/63DA9A3D/63D40357" Ref="SW?"  Part="1" 
+AR Path="/63DAA923/63D40357" Ref="SW10"  Part="1" 
+AR Path="/63DAE98F/63D40357" Ref="SW?"  Part="1" 
+AR Path="/63DB01EC/63D40357" Ref="SW?"  Part="1" 
+AR Path="/63DB6C70/63D40357" Ref="SW20"  Part="1" 
+AR Path="/63DBEAA4/63D40357" Ref="SW15"  Part="1" 
+F 0 "SW5" V 8204 2680 50  0000 L CNN
+F 1 "SW_DIP_x05" V 8295 2680 50  0000 L CNN
+F 2 "processor2:dip5_switch" H 8250 2350 50  0001 C CNN
+F 3 "~" H 8250 2350 50  0001 C CNN
+	1    8250 2350
+	0    1    1    0   
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D43D6A
+P 1900 3100
+AR Path="/63CEBE5C/63D43D6A" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D43D6A" Ref="Q1"  Part="1" 
+AR Path="/63DA9A3D/63D43D6A" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D43D6A" Ref="Q17"  Part="1" 
+AR Path="/63DAE98F/63D43D6A" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D43D6A" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D43D6A" Ref="Q49"  Part="1" 
+AR Path="/63DBEAA4/63D43D6A" Ref="Q33"  Part="1" 
+F 0 "Q1" H 2104 3146 50  0000 L CNN
+F 1 "2N7000" H 2104 3055 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 2100 3025 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 1900 3100 50  0001 L CNN
+	1    1900 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D4493B
+P 2000 3700
+AR Path="/63CEBE5C/63D4493B" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D4493B" Ref="Q2"  Part="1" 
+AR Path="/63DA9A3D/63D4493B" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D4493B" Ref="Q18"  Part="1" 
+AR Path="/63DAE98F/63D4493B" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D4493B" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D4493B" Ref="Q50"  Part="1" 
+AR Path="/63DBEAA4/63D4493B" Ref="Q34"  Part="1" 
+F 0 "Q2" H 2204 3746 50  0000 L CNN
+F 1 "2N7000" H 2204 3655 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 2200 3625 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 2000 3700 50  0001 L CNN
+	1    2000 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D44BFD
+P 2100 4300
+AR Path="/63CEBE5C/63D44BFD" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D44BFD" Ref="Q3"  Part="1" 
+AR Path="/63DA9A3D/63D44BFD" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D44BFD" Ref="Q19"  Part="1" 
+AR Path="/63DAE98F/63D44BFD" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D44BFD" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D44BFD" Ref="Q51"  Part="1" 
+AR Path="/63DBEAA4/63D44BFD" Ref="Q35"  Part="1" 
+F 0 "Q3" H 2304 4346 50  0000 L CNN
+F 1 "2N7000" H 2304 4255 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 2300 4225 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 2100 4300 50  0001 L CNN
+	1    2100 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 2650 2200 4100
+Wire Wire Line
+	2100 2650 2100 3500
+Wire Wire Line
+	2000 2650 2000 2900
+$Comp
+L power:GND #PWR?
+U 1 1 63D45602
+P 2000 3350
+AR Path="/63CEBE5C/63D45602" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D45602" Ref="#PWR021"  Part="1" 
+AR Path="/63DA9A3D/63D45602" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D45602" Ref="#PWR037"  Part="1" 
+AR Path="/63DAE98F/63D45602" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D45602" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D45602" Ref="#PWR069"  Part="1" 
+AR Path="/63DBEAA4/63D45602" Ref="#PWR053"  Part="1" 
+F 0 "#PWR021" H 2000 3100 50  0001 C CNN
+F 1 "GND" H 2005 3177 50  0000 C CNN
+F 2 "" H 2000 3350 50  0001 C CNN
+F 3 "" H 2000 3350 50  0001 C CNN
+	1    2000 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D45923
+P 2100 3950
+AR Path="/63CEBE5C/63D45923" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D45923" Ref="#PWR022"  Part="1" 
+AR Path="/63DA9A3D/63D45923" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D45923" Ref="#PWR038"  Part="1" 
+AR Path="/63DAE98F/63D45923" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D45923" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D45923" Ref="#PWR070"  Part="1" 
+AR Path="/63DBEAA4/63D45923" Ref="#PWR054"  Part="1" 
+F 0 "#PWR022" H 2100 3700 50  0001 C CNN
+F 1 "GND" H 2105 3777 50  0000 C CNN
+F 2 "" H 2100 3950 50  0001 C CNN
+F 3 "" H 2100 3950 50  0001 C CNN
+	1    2100 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D45CF2
+P 2200 4550
+AR Path="/63CEBE5C/63D45CF2" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D45CF2" Ref="#PWR023"  Part="1" 
+AR Path="/63DA9A3D/63D45CF2" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D45CF2" Ref="#PWR039"  Part="1" 
+AR Path="/63DAE98F/63D45CF2" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D45CF2" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D45CF2" Ref="#PWR071"  Part="1" 
+AR Path="/63DBEAA4/63D45CF2" Ref="#PWR055"  Part="1" 
+F 0 "#PWR023" H 2200 4300 50  0001 C CNN
+F 1 "GND" H 2205 4377 50  0000 C CNN
+F 2 "" H 2200 4550 50  0001 C CNN
+F 3 "" H 2200 4550 50  0001 C CNN
+	1    2200 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2200 4550 2200 4500
+Wire Wire Line
+	2100 3950 2100 3900
+Wire Wire Line
+	2000 3350 2000 3300
+Wire Wire Line
+	1700 3100 1700 3700
+Wire Wire Line
+	1700 4300 1900 4300
+Wire Wire Line
+	1800 3700 1700 3700
+Connection ~ 1700 3700
+Wire Wire Line
+	1700 3700 1700 4300
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D48C3E
+P 3550 3100
+AR Path="/63CEBE5C/63D48C3E" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D48C3E" Ref="Q4"  Part="1" 
+AR Path="/63DA9A3D/63D48C3E" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D48C3E" Ref="Q20"  Part="1" 
+AR Path="/63DAE98F/63D48C3E" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D48C3E" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D48C3E" Ref="Q52"  Part="1" 
+AR Path="/63DBEAA4/63D48C3E" Ref="Q36"  Part="1" 
+F 0 "Q4" H 3754 3146 50  0000 L CNN
+F 1 "2N7000" H 3754 3055 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 3750 3025 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 3550 3100 50  0001 L CNN
+	1    3550 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D48C44
+P 3650 3700
+AR Path="/63CEBE5C/63D48C44" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D48C44" Ref="Q5"  Part="1" 
+AR Path="/63DA9A3D/63D48C44" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D48C44" Ref="Q21"  Part="1" 
+AR Path="/63DAE98F/63D48C44" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D48C44" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D48C44" Ref="Q53"  Part="1" 
+AR Path="/63DBEAA4/63D48C44" Ref="Q37"  Part="1" 
+F 0 "Q5" H 3854 3746 50  0000 L CNN
+F 1 "2N7000" H 3854 3655 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 3850 3625 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 3650 3700 50  0001 L CNN
+	1    3650 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D48C4A
+P 3750 4300
+AR Path="/63CEBE5C/63D48C4A" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D48C4A" Ref="Q6"  Part="1" 
+AR Path="/63DA9A3D/63D48C4A" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D48C4A" Ref="Q22"  Part="1" 
+AR Path="/63DAE98F/63D48C4A" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D48C4A" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D48C4A" Ref="Q54"  Part="1" 
+AR Path="/63DBEAA4/63D48C4A" Ref="Q38"  Part="1" 
+F 0 "Q6" H 3954 4346 50  0000 L CNN
+F 1 "2N7000" H 3954 4255 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 3950 4225 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 3750 4300 50  0001 L CNN
+	1    3750 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 2650 3850 4100
+Wire Wire Line
+	3750 2650 3750 3500
+Wire Wire Line
+	3650 2650 3650 2900
+$Comp
+L power:GND #PWR?
+U 1 1 63D48C53
+P 3650 3350
+AR Path="/63CEBE5C/63D48C53" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D48C53" Ref="#PWR024"  Part="1" 
+AR Path="/63DA9A3D/63D48C53" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D48C53" Ref="#PWR040"  Part="1" 
+AR Path="/63DAE98F/63D48C53" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D48C53" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D48C53" Ref="#PWR072"  Part="1" 
+AR Path="/63DBEAA4/63D48C53" Ref="#PWR056"  Part="1" 
+F 0 "#PWR024" H 3650 3100 50  0001 C CNN
+F 1 "GND" H 3655 3177 50  0000 C CNN
+F 2 "" H 3650 3350 50  0001 C CNN
+F 3 "" H 3650 3350 50  0001 C CNN
+	1    3650 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D48C59
+P 3750 3950
+AR Path="/63CEBE5C/63D48C59" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D48C59" Ref="#PWR025"  Part="1" 
+AR Path="/63DA9A3D/63D48C59" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D48C59" Ref="#PWR041"  Part="1" 
+AR Path="/63DAE98F/63D48C59" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D48C59" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D48C59" Ref="#PWR073"  Part="1" 
+AR Path="/63DBEAA4/63D48C59" Ref="#PWR057"  Part="1" 
+F 0 "#PWR025" H 3750 3700 50  0001 C CNN
+F 1 "GND" H 3755 3777 50  0000 C CNN
+F 2 "" H 3750 3950 50  0001 C CNN
+F 3 "" H 3750 3950 50  0001 C CNN
+	1    3750 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D48C5F
+P 3850 4550
+AR Path="/63CEBE5C/63D48C5F" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D48C5F" Ref="#PWR026"  Part="1" 
+AR Path="/63DA9A3D/63D48C5F" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D48C5F" Ref="#PWR042"  Part="1" 
+AR Path="/63DAE98F/63D48C5F" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D48C5F" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D48C5F" Ref="#PWR074"  Part="1" 
+AR Path="/63DBEAA4/63D48C5F" Ref="#PWR058"  Part="1" 
+F 0 "#PWR026" H 3850 4300 50  0001 C CNN
+F 1 "GND" H 3855 4377 50  0000 C CNN
+F 2 "" H 3850 4550 50  0001 C CNN
+F 3 "" H 3850 4550 50  0001 C CNN
+	1    3850 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 4550 3850 4500
+Wire Wire Line
+	3750 3950 3750 3900
+Wire Wire Line
+	3650 3350 3650 3300
+Wire Wire Line
+	3350 3100 3350 3700
+Wire Wire Line
+	3350 4300 3550 4300
+Wire Wire Line
+	3450 3700 3350 3700
+Connection ~ 3350 3700
+Wire Wire Line
+	3350 3700 3350 4300
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D4B217
+P 5050 3100
+AR Path="/63CEBE5C/63D4B217" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D4B217" Ref="Q7"  Part="1" 
+AR Path="/63DA9A3D/63D4B217" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D4B217" Ref="Q23"  Part="1" 
+AR Path="/63DAE98F/63D4B217" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D4B217" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D4B217" Ref="Q55"  Part="1" 
+AR Path="/63DBEAA4/63D4B217" Ref="Q39"  Part="1" 
+F 0 "Q7" H 5254 3146 50  0000 L CNN
+F 1 "2N7000" H 5254 3055 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 5250 3025 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 5050 3100 50  0001 L CNN
+	1    5050 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D4B21D
+P 5150 3700
+AR Path="/63CEBE5C/63D4B21D" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D4B21D" Ref="Q8"  Part="1" 
+AR Path="/63DA9A3D/63D4B21D" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D4B21D" Ref="Q24"  Part="1" 
+AR Path="/63DAE98F/63D4B21D" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D4B21D" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D4B21D" Ref="Q56"  Part="1" 
+AR Path="/63DBEAA4/63D4B21D" Ref="Q40"  Part="1" 
+F 0 "Q8" H 5354 3746 50  0000 L CNN
+F 1 "2N7000" H 5354 3655 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 5350 3625 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 5150 3700 50  0001 L CNN
+	1    5150 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D4B223
+P 5250 4300
+AR Path="/63CEBE5C/63D4B223" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D4B223" Ref="Q9"  Part="1" 
+AR Path="/63DA9A3D/63D4B223" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D4B223" Ref="Q25"  Part="1" 
+AR Path="/63DAE98F/63D4B223" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D4B223" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D4B223" Ref="Q57"  Part="1" 
+AR Path="/63DBEAA4/63D4B223" Ref="Q41"  Part="1" 
+F 0 "Q9" H 5454 4346 50  0000 L CNN
+F 1 "2N7000" H 5454 4255 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 5450 4225 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 5250 4300 50  0001 L CNN
+	1    5250 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 2650 5350 4100
+Wire Wire Line
+	5250 2650 5250 3500
+Wire Wire Line
+	5150 2650 5150 2900
+$Comp
+L power:GND #PWR?
+U 1 1 63D4B22C
+P 5150 3350
+AR Path="/63CEBE5C/63D4B22C" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D4B22C" Ref="#PWR027"  Part="1" 
+AR Path="/63DA9A3D/63D4B22C" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D4B22C" Ref="#PWR043"  Part="1" 
+AR Path="/63DAE98F/63D4B22C" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D4B22C" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D4B22C" Ref="#PWR075"  Part="1" 
+AR Path="/63DBEAA4/63D4B22C" Ref="#PWR059"  Part="1" 
+F 0 "#PWR027" H 5150 3100 50  0001 C CNN
+F 1 "GND" H 5155 3177 50  0000 C CNN
+F 2 "" H 5150 3350 50  0001 C CNN
+F 3 "" H 5150 3350 50  0001 C CNN
+	1    5150 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D4B232
+P 5250 3950
+AR Path="/63CEBE5C/63D4B232" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D4B232" Ref="#PWR028"  Part="1" 
+AR Path="/63DA9A3D/63D4B232" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D4B232" Ref="#PWR044"  Part="1" 
+AR Path="/63DAE98F/63D4B232" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D4B232" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D4B232" Ref="#PWR076"  Part="1" 
+AR Path="/63DBEAA4/63D4B232" Ref="#PWR060"  Part="1" 
+F 0 "#PWR028" H 5250 3700 50  0001 C CNN
+F 1 "GND" H 5255 3777 50  0000 C CNN
+F 2 "" H 5250 3950 50  0001 C CNN
+F 3 "" H 5250 3950 50  0001 C CNN
+	1    5250 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D4B238
+P 5350 4550
+AR Path="/63CEBE5C/63D4B238" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D4B238" Ref="#PWR029"  Part="1" 
+AR Path="/63DA9A3D/63D4B238" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D4B238" Ref="#PWR045"  Part="1" 
+AR Path="/63DAE98F/63D4B238" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D4B238" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D4B238" Ref="#PWR077"  Part="1" 
+AR Path="/63DBEAA4/63D4B238" Ref="#PWR061"  Part="1" 
+F 0 "#PWR029" H 5350 4300 50  0001 C CNN
+F 1 "GND" H 5355 4377 50  0000 C CNN
+F 2 "" H 5350 4550 50  0001 C CNN
+F 3 "" H 5350 4550 50  0001 C CNN
+	1    5350 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5350 4550 5350 4500
+Wire Wire Line
+	5250 3950 5250 3900
+Wire Wire Line
+	5150 3350 5150 3300
+Wire Wire Line
+	4850 3100 4850 3700
+Wire Wire Line
+	4850 4300 5050 4300
+Wire Wire Line
+	4950 3700 4850 3700
+Connection ~ 4850 3700
+Wire Wire Line
+	4850 3700 4850 4300
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D4F2E7
+P 6650 3100
+AR Path="/63CEBE5C/63D4F2E7" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D4F2E7" Ref="Q10"  Part="1" 
+AR Path="/63DA9A3D/63D4F2E7" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D4F2E7" Ref="Q26"  Part="1" 
+AR Path="/63DAE98F/63D4F2E7" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D4F2E7" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D4F2E7" Ref="Q58"  Part="1" 
+AR Path="/63DBEAA4/63D4F2E7" Ref="Q42"  Part="1" 
+F 0 "Q10" H 6854 3146 50  0000 L CNN
+F 1 "2N7000" H 6854 3055 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 6850 3025 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 6650 3100 50  0001 L CNN
+	1    6650 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D4F2ED
+P 6750 3700
+AR Path="/63CEBE5C/63D4F2ED" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D4F2ED" Ref="Q11"  Part="1" 
+AR Path="/63DA9A3D/63D4F2ED" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D4F2ED" Ref="Q27"  Part="1" 
+AR Path="/63DAE98F/63D4F2ED" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D4F2ED" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D4F2ED" Ref="Q59"  Part="1" 
+AR Path="/63DBEAA4/63D4F2ED" Ref="Q43"  Part="1" 
+F 0 "Q11" H 6954 3746 50  0000 L CNN
+F 1 "2N7000" H 6954 3655 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 6950 3625 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 6750 3700 50  0001 L CNN
+	1    6750 3700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6850 2650 6850 3500
+Wire Wire Line
+	6750 2650 6750 2900
+$Comp
+L power:GND #PWR?
+U 1 1 63D4F2FC
+P 6750 3350
+AR Path="/63CEBE5C/63D4F2FC" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D4F2FC" Ref="#PWR030"  Part="1" 
+AR Path="/63DA9A3D/63D4F2FC" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D4F2FC" Ref="#PWR046"  Part="1" 
+AR Path="/63DAE98F/63D4F2FC" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D4F2FC" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D4F2FC" Ref="#PWR078"  Part="1" 
+AR Path="/63DBEAA4/63D4F2FC" Ref="#PWR062"  Part="1" 
+F 0 "#PWR030" H 6750 3100 50  0001 C CNN
+F 1 "GND" H 6755 3177 50  0000 C CNN
+F 2 "" H 6750 3350 50  0001 C CNN
+F 3 "" H 6750 3350 50  0001 C CNN
+	1    6750 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D4F302
+P 6850 3950
+AR Path="/63CEBE5C/63D4F302" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D4F302" Ref="#PWR031"  Part="1" 
+AR Path="/63DA9A3D/63D4F302" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D4F302" Ref="#PWR047"  Part="1" 
+AR Path="/63DAE98F/63D4F302" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D4F302" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D4F302" Ref="#PWR079"  Part="1" 
+AR Path="/63DBEAA4/63D4F302" Ref="#PWR063"  Part="1" 
+F 0 "#PWR031" H 6850 3700 50  0001 C CNN
+F 1 "GND" H 6855 3777 50  0000 C CNN
+F 2 "" H 6850 3950 50  0001 C CNN
+F 3 "" H 6850 3950 50  0001 C CNN
+	1    6850 3950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6850 3950 6850 3900
+Wire Wire Line
+	6750 3350 6750 3300
+Wire Wire Line
+	6450 3100 6450 3700
+Wire Wire Line
+	6550 3700 6450 3700
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D52B67
+P 7950 3100
+AR Path="/63CEBE5C/63D52B67" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D52B67" Ref="Q12"  Part="1" 
+AR Path="/63DA9A3D/63D52B67" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D52B67" Ref="Q28"  Part="1" 
+AR Path="/63DAE98F/63D52B67" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D52B67" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D52B67" Ref="Q60"  Part="1" 
+AR Path="/63DBEAA4/63D52B67" Ref="Q44"  Part="1" 
+F 0 "Q12" H 8154 3146 50  0000 L CNN
+F 1 "2N7000" H 8154 3055 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 8150 3025 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 7950 3100 50  0001 L CNN
+	1    7950 3100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D52B6D
+P 8050 3700
+AR Path="/63CEBE5C/63D52B6D" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D52B6D" Ref="Q13"  Part="1" 
+AR Path="/63DA9A3D/63D52B6D" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D52B6D" Ref="Q29"  Part="1" 
+AR Path="/63DAE98F/63D52B6D" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D52B6D" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D52B6D" Ref="Q61"  Part="1" 
+AR Path="/63DBEAA4/63D52B6D" Ref="Q45"  Part="1" 
+F 0 "Q13" H 8254 3746 50  0000 L CNN
+F 1 "2N7000" H 8254 3655 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 8250 3625 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 8050 3700 50  0001 L CNN
+	1    8050 3700
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D52B73
+P 8150 4300
+AR Path="/63CEBE5C/63D52B73" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D52B73" Ref="Q14"  Part="1" 
+AR Path="/63DA9A3D/63D52B73" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D52B73" Ref="Q30"  Part="1" 
+AR Path="/63DAE98F/63D52B73" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D52B73" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D52B73" Ref="Q62"  Part="1" 
+AR Path="/63DBEAA4/63D52B73" Ref="Q46"  Part="1" 
+F 0 "Q14" H 8354 4346 50  0000 L CNN
+F 1 "2N7000" H 8354 4255 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 8350 4225 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 8150 4300 50  0001 L CNN
+	1    8150 4300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8250 2650 8250 4100
+Wire Wire Line
+	8150 2650 8150 3500
+Wire Wire Line
+	8050 2650 8050 2900
+$Comp
+L power:GND #PWR?
+U 1 1 63D52B7C
+P 8050 3350
+AR Path="/63CEBE5C/63D52B7C" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D52B7C" Ref="#PWR032"  Part="1" 
+AR Path="/63DA9A3D/63D52B7C" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D52B7C" Ref="#PWR048"  Part="1" 
+AR Path="/63DAE98F/63D52B7C" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D52B7C" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D52B7C" Ref="#PWR080"  Part="1" 
+AR Path="/63DBEAA4/63D52B7C" Ref="#PWR064"  Part="1" 
+F 0 "#PWR032" H 8050 3100 50  0001 C CNN
+F 1 "GND" H 8055 3177 50  0000 C CNN
+F 2 "" H 8050 3350 50  0001 C CNN
+F 3 "" H 8050 3350 50  0001 C CNN
+	1    8050 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D52B82
+P 8150 3950
+AR Path="/63CEBE5C/63D52B82" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D52B82" Ref="#PWR033"  Part="1" 
+AR Path="/63DA9A3D/63D52B82" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D52B82" Ref="#PWR049"  Part="1" 
+AR Path="/63DAE98F/63D52B82" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D52B82" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D52B82" Ref="#PWR081"  Part="1" 
+AR Path="/63DBEAA4/63D52B82" Ref="#PWR065"  Part="1" 
+F 0 "#PWR033" H 8150 3700 50  0001 C CNN
+F 1 "GND" H 8155 3777 50  0000 C CNN
+F 2 "" H 8150 3950 50  0001 C CNN
+F 3 "" H 8150 3950 50  0001 C CNN
+	1    8150 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D52B88
+P 8250 4550
+AR Path="/63CEBE5C/63D52B88" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D52B88" Ref="#PWR034"  Part="1" 
+AR Path="/63DA9A3D/63D52B88" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D52B88" Ref="#PWR050"  Part="1" 
+AR Path="/63DAE98F/63D52B88" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D52B88" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D52B88" Ref="#PWR082"  Part="1" 
+AR Path="/63DBEAA4/63D52B88" Ref="#PWR066"  Part="1" 
+F 0 "#PWR034" H 8250 4300 50  0001 C CNN
+F 1 "GND" H 8255 4377 50  0000 C CNN
+F 2 "" H 8250 4550 50  0001 C CNN
+F 3 "" H 8250 4550 50  0001 C CNN
+	1    8250 4550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8250 4550 8250 4500
+Wire Wire Line
+	8150 3950 8150 3900
+Wire Wire Line
+	8050 3350 8050 3300
+Wire Wire Line
+	7750 3100 7750 3700
+Wire Wire Line
+	7750 4300 7950 4300
+Wire Wire Line
+	7850 3700 7750 3700
+Connection ~ 7750 3700
+Wire Wire Line
+	7750 3700 7750 4300
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D637B0
+P 8250 4850
+AR Path="/63CEBE5C/63D637B0" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D637B0" Ref="Q15"  Part="1" 
+AR Path="/63DA9A3D/63D637B0" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D637B0" Ref="Q31"  Part="1" 
+AR Path="/63DAE98F/63D637B0" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D637B0" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D637B0" Ref="Q63"  Part="1" 
+AR Path="/63DBEAA4/63D637B0" Ref="Q47"  Part="1" 
+F 0 "Q15" H 8454 4896 50  0000 L CNN
+F 1 "2N7000" H 8454 4805 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 8450 4775 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 8250 4850 50  0001 L CNN
+	1    8250 4850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Transistor_FET:2N7000 Q?
+U 1 1 63D637B6
+P 8350 5450
+AR Path="/63CEBE5C/63D637B6" Ref="Q?"  Part="1" 
+AR Path="/63D9F597/63D637B6" Ref="Q16"  Part="1" 
+AR Path="/63DA9A3D/63D637B6" Ref="Q?"  Part="1" 
+AR Path="/63DAA923/63D637B6" Ref="Q32"  Part="1" 
+AR Path="/63DAE98F/63D637B6" Ref="Q?"  Part="1" 
+AR Path="/63DB01EC/63D637B6" Ref="Q?"  Part="1" 
+AR Path="/63DB6C70/63D637B6" Ref="Q64"  Part="1" 
+AR Path="/63DBEAA4/63D637B6" Ref="Q48"  Part="1" 
+F 0 "Q16" H 8554 5496 50  0000 L CNN
+F 1 "2N7000" H 8554 5405 50  0000 L CNN
+F 2 "processor2:2n7000_tight" H 8550 5375 50  0001 L CIN
+F 3 "https://www.fairchildsemi.com/datasheets/2N/2N7000.pdf" H 8350 5450 50  0001 L CNN
+	1    8350 5450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D637C5
+P 8350 5100
+AR Path="/63CEBE5C/63D637C5" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D637C5" Ref="#PWR035"  Part="1" 
+AR Path="/63DA9A3D/63D637C5" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D637C5" Ref="#PWR051"  Part="1" 
+AR Path="/63DAE98F/63D637C5" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D637C5" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D637C5" Ref="#PWR083"  Part="1" 
+AR Path="/63DBEAA4/63D637C5" Ref="#PWR067"  Part="1" 
+F 0 "#PWR035" H 8350 4850 50  0001 C CNN
+F 1 "GND" H 8355 4927 50  0000 C CNN
+F 2 "" H 8350 5100 50  0001 C CNN
+F 3 "" H 8350 5100 50  0001 C CNN
+	1    8350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D637CB
+P 8450 5700
+AR Path="/63CEBE5C/63D637CB" Ref="#PWR?"  Part="1" 
+AR Path="/63D9F597/63D637CB" Ref="#PWR036"  Part="1" 
+AR Path="/63DA9A3D/63D637CB" Ref="#PWR?"  Part="1" 
+AR Path="/63DAA923/63D637CB" Ref="#PWR052"  Part="1" 
+AR Path="/63DAE98F/63D637CB" Ref="#PWR?"  Part="1" 
+AR Path="/63DB01EC/63D637CB" Ref="#PWR?"  Part="1" 
+AR Path="/63DB6C70/63D637CB" Ref="#PWR084"  Part="1" 
+AR Path="/63DBEAA4/63D637CB" Ref="#PWR068"  Part="1" 
+F 0 "#PWR036" H 8450 5450 50  0001 C CNN
+F 1 "GND" H 8455 5527 50  0000 C CNN
+F 2 "" H 8450 5700 50  0001 C CNN
+F 3 "" H 8450 5700 50  0001 C CNN
+	1    8450 5700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8450 5700 8450 5650
+Wire Wire Line
+	8350 5100 8350 5050
+Wire Wire Line
+	8050 4850 8050 5450
+Wire Wire Line
+	8150 5450 8050 5450
+Wire Wire Line
+	8350 2650 8350 4650
+Wire Wire Line
+	8450 2650 8450 5250
+Text HLabel 2000 1950 1    50   Input ~ 0
+a
+Text HLabel 2100 1950 1    50   Input ~ 0
+b
+Text HLabel 2200 1950 1    50   Input ~ 0
+c
+Text HLabel 3650 1950 1    50   Input ~ 0
+d
+Text HLabel 3750 1950 1    50   Input ~ 0
+e
+Text HLabel 3850 1950 1    50   Input ~ 0
+f
+Text HLabel 5150 1950 1    50   Input ~ 0
+g
+Text HLabel 5250 1950 1    50   Input ~ 0
+h
+Text HLabel 5350 1950 1    50   Input ~ 0
+i
+Text HLabel 6750 1950 1    50   Input ~ 0
+j
+Text HLabel 6850 1950 1    50   Input ~ 0
+k
+Text HLabel 8050 1950 1    50   Input ~ 0
+l
+Text HLabel 8150 1950 1    50   Input ~ 0
+m
+Text HLabel 8250 1950 1    50   Input ~ 0
+n
+Text HLabel 8350 1950 1    50   Input ~ 0
+o
+Text HLabel 8450 1950 1    50   Input ~ 0
+p
+Wire Wire Line
+	8450 1950 8450 2050
+Wire Wire Line
+	8350 2050 8350 1950
+Wire Wire Line
+	8250 2050 8250 1950
+Wire Wire Line
+	8150 2050 8150 1950
+Wire Wire Line
+	8050 2050 8050 1950
+Wire Wire Line
+	6850 1950 6850 2050
+Wire Wire Line
+	6750 1950 6750 2050
+Wire Wire Line
+	5350 1950 5350 2050
+Wire Wire Line
+	5250 1950 5250 2050
+Wire Wire Line
+	5150 2050 5150 1950
+Wire Wire Line
+	3850 1950 3850 2050
+Wire Wire Line
+	3750 1950 3750 2050
+Wire Wire Line
+	3650 1950 3650 2050
+Wire Wire Line
+	2200 1950 2200 2050
+Wire Wire Line
+	2100 2050 2100 1950
+Wire Wire Line
+	2000 2050 2000 1950
+Connection ~ 8050 5450
+Wire Wire Line
+	7750 4300 7750 5450
+Connection ~ 7750 4300
+Connection ~ 7750 5450
+Wire Wire Line
+	7750 5450 8050 5450
+Wire Wire Line
+	6450 3700 6450 5450
+Connection ~ 6450 3700
+Connection ~ 6450 5450
+Wire Wire Line
+	6450 5450 7750 5450
+Wire Wire Line
+	4850 4300 4850 5450
+Connection ~ 4850 4300
+Connection ~ 4850 5450
+Wire Wire Line
+	4850 5450 6450 5450
+Wire Wire Line
+	3350 4300 3350 5450
+Wire Wire Line
+	1700 5450 3350 5450
+Connection ~ 3350 4300
+Connection ~ 3350 5450
+Wire Wire Line
+	3350 5450 4850 5450
+Text HLabel 1500 5000 0    50   Input ~ 0
+enable
+Wire Wire Line
+	1500 5000 1700 5000
+Connection ~ 1700 5000
+Wire Wire Line
+	1700 5000 1700 5450
+Wire Wire Line
+	1700 4300 1700 5000
+Connection ~ 1700 4300
+$EndSCHEMATC

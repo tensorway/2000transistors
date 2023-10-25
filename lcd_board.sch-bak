@@ -1,0 +1,402 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 3
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Wire Wire Line
+	2450 1600 2550 1600
+Connection ~ 2450 1600
+Wire Wire Line
+	2450 2000 2450 1600
+Wire Wire Line
+	2150 2000 2450 2000
+$Comp
+L power:PWR_FLAG #FLG0102
+U 1 1 63E6546C
+P 2150 2000
+F 0 "#FLG0102" H 2150 2075 50  0001 C CNN
+F 1 "PWR_FLAG" H 2150 2173 50  0000 C CNN
+F 2 "" H 2150 2000 50  0001 C CNN
+F 3 "~" H 2150 2000 50  0001 C CNN
+	1    2150 2000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 1600 2450 1600
+Wire Wire Line
+	2300 1500 2550 1500
+Connection ~ 2300 1500
+Wire Wire Line
+	2300 1300 2300 1500
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 63E4F744
+P 2300 1300
+F 0 "#FLG0101" H 2300 1375 50  0001 C CNN
+F 1 "PWR_FLAG" H 2300 1473 50  0000 C CNN
+F 2 "" H 2300 1300 50  0001 C CNN
+F 3 "~" H 2300 1300 50  0001 C CNN
+	1    2300 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x02_Male J?
+U 1 1 63C2625D
+P 1800 1500
+AR Path="/63C1A95D/63C2625D" Ref="J?"  Part="1" 
+AR Path="/63C2625D" Ref="J8"  Part="1" 
+F 0 "J8" H 1908 1681 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 1908 1590 50  0000 C CNN
+F 2 "processor2:2pin_tight" H 1800 1500 50  0001 C CNN
+F 3 "~" H 1800 1500 50  0001 C CNN
+	1    1800 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2000 1500 2300 1500
+$Comp
+L power:+5V #PWR?
+U 1 1 63C26269
+P 2550 1500
+AR Path="/63C1A95D/63C26269" Ref="#PWR?"  Part="1" 
+AR Path="/63C26269" Ref="#PWR01"  Part="1" 
+F 0 "#PWR01" H 2550 1350 50  0001 C CNN
+F 1 "+5V" H 2565 1673 50  0000 C CNN
+F 2 "" H 2550 1500 50  0001 C CNN
+F 3 "" H 2550 1500 50  0001 C CNN
+	1    2550 1500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63C26263
+P 2550 1600
+AR Path="/63C1A95D/63C26263" Ref="#PWR?"  Part="1" 
+AR Path="/63C26263" Ref="#PWR02"  Part="1" 
+F 0 "#PWR02" H 2550 1350 50  0001 C CNN
+F 1 "GND" H 2555 1427 50  0000 C CNN
+F 2 "" H 2550 1600 50  0001 C CNN
+F 3 "" H 2550 1600 50  0001 C CNN
+	1    2550 1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x11_Male J6
+U 1 1 63D58936
+P 4750 4150
+F 0 "J6" H 4858 4831 50  0000 C CNN
+F 1 "Conn_01x11_Male" H 4858 4740 50  0000 C CNN
+F 2 "processor2:11pin_tight" H 4750 4150 50  0001 C CNN
+F 3 "~" H 4750 4150 50  0001 C CNN
+	1    4750 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x11_Male J3
+U 1 1 63D58930
+P 3550 4150
+F 0 "J3" H 3658 4831 50  0000 C CNN
+F 1 "Conn_01x11_Male" H 3658 4740 50  0000 C CNN
+F 2 "processor2:11pin_tight" H 3550 4150 50  0001 C CNN
+F 3 "~" H 3550 4150 50  0001 C CNN
+	1    3550 4150
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 63D9BB50
+P 4250 1650
+AR Path="/63C1A95D/63D9BB50" Ref="#PWR?"  Part="1" 
+AR Path="/63D9BB50" Ref="#PWR013"  Part="1" 
+F 0 "#PWR013" H 4250 1500 50  0001 C CNN
+F 1 "+5V" H 4265 1823 50  0000 C CNN
+F 2 "" H 4250 1650 50  0001 C CNN
+F 3 "" H 4250 1650 50  0001 C CNN
+	1    4250 1650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63D9BB56
+P 4250 1750
+AR Path="/63C1A95D/63D9BB56" Ref="#PWR?"  Part="1" 
+AR Path="/63D9BB56" Ref="#PWR014"  Part="1" 
+F 0 "#PWR014" H 4250 1500 50  0001 C CNN
+F 1 "GND" H 4255 1577 50  0000 C CNN
+F 2 "" H 4250 1750 50  0001 C CNN
+F 3 "" H 4250 1750 50  0001 C CNN
+	1    4250 1750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 1750 4250 1750
+Wire Wire Line
+	3700 1650 4250 1650
+$Comp
+L Connector:Conn_01x02_Male J?
+U 1 1 63D9BB5E
+P 3500 1650
+AR Path="/63C1A95D/63D9BB5E" Ref="J?"  Part="1" 
+AR Path="/63D9BB5E" Ref="J5"  Part="1" 
+F 0 "J5" H 3608 1831 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 3608 1740 50  0000 C CNN
+F 2 "processor2:2pin_tight" H 3500 1650 50  0001 C CNN
+F 3 "~" H 3500 1650 50  0001 C CNN
+	1    3500 1650
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 3950 5700 700  250 
+U 63DE8950
+F0 "sheet63DE894A" 50
+F1 "led.sch" 50
+F2 "in" I L 3950 5800 50 
+$EndSheet
+Wire Wire Line
+	3350 4350 4550 4350
+Wire Wire Line
+	3350 4250 4550 4250
+Wire Wire Line
+	3350 4150 4550 4150
+Wire Wire Line
+	3350 4050 4550 4050
+Wire Wire Line
+	3350 3950 4550 3950
+Wire Wire Line
+	3350 3750 4550 3750
+Wire Wire Line
+	3350 3650 4550 3650
+Wire Wire Line
+	3350 4650 4550 4650
+Wire Wire Line
+	3350 4550 4550 4550
+Wire Wire Line
+	3350 4450 4550 4450
+$Comp
+L processor2:lcd_display U1
+U 1 1 63DE63CA
+P 6400 5350
+F 0 "U1" H 7328 6296 50  0000 L CNN
+F 1 "lcd_display" H 7328 6205 50  0000 L CNN
+F 2 "processor2:lcd_display" H 5850 5900 50  0001 C CNN
+F 3 "" H 5850 5900 50  0001 C CNN
+	1    6400 5350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 3950 4550 3950
+Connection ~ 4550 3950
+Wire Wire Line
+	6300 4050 4550 4050
+Connection ~ 4550 4050
+Wire Wire Line
+	6300 4150 4550 4150
+Connection ~ 4550 4150
+Wire Wire Line
+	6300 4250 4550 4250
+Connection ~ 4550 4250
+Wire Wire Line
+	6300 4350 4550 4350
+Connection ~ 4550 4350
+Wire Wire Line
+	6300 4450 4550 4450
+Connection ~ 4550 4450
+Wire Wire Line
+	6300 4550 4550 4550
+Connection ~ 4550 4550
+Wire Wire Line
+	6300 4650 4550 4650
+Connection ~ 4550 4650
+$Comp
+L power:+5V #PWR?
+U 1 1 63DF2BDF
+P 5800 5300
+AR Path="/63C1A95D/63DF2BDF" Ref="#PWR?"  Part="1" 
+AR Path="/63DF2BDF" Ref="#PWR0101"  Part="1" 
+F 0 "#PWR0101" H 5800 5150 50  0001 C CNN
+F 1 "+5V" H 5815 5473 50  0000 C CNN
+F 2 "" H 5800 5300 50  0001 C CNN
+F 3 "" H 5800 5300 50  0001 C CNN
+	1    5800 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63DF2BE5
+P 5800 5400
+AR Path="/63C1A95D/63DF2BE5" Ref="#PWR?"  Part="1" 
+AR Path="/63DF2BE5" Ref="#PWR0102"  Part="1" 
+F 0 "#PWR0102" H 5800 5150 50  0001 C CNN
+F 1 "GND" H 5805 5227 50  0000 C CNN
+F 2 "" H 5800 5400 50  0001 C CNN
+F 3 "" H 5800 5400 50  0001 C CNN
+	1    5800 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 5150 6050 5150
+Wire Wire Line
+	6050 5150 6050 5300
+Wire Wire Line
+	6050 5300 5800 5300
+Wire Wire Line
+	5800 5400 6300 5400
+Wire Wire Line
+	6300 5400 6300 5250
+Wire Wire Line
+	6300 4850 5550 4850
+Wire Wire Line
+	5550 5400 5800 5400
+Connection ~ 5800 5400
+$Comp
+L power:+5V #PWR?
+U 1 1 63DF7BF3
+P 5650 3300
+AR Path="/63C1A95D/63DF7BF3" Ref="#PWR?"  Part="1" 
+AR Path="/63DF7BF3" Ref="#PWR0103"  Part="1" 
+F 0 "#PWR0103" H 5650 3150 50  0001 C CNN
+F 1 "+5V" H 5665 3473 50  0000 C CNN
+F 2 "" H 5650 3300 50  0001 C CNN
+F 3 "" H 5650 3300 50  0001 C CNN
+	1    5650 3300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63DF7BF9
+P 6100 3450
+AR Path="/63C1A95D/63DF7BF9" Ref="#PWR?"  Part="1" 
+AR Path="/63DF7BF9" Ref="#PWR0104"  Part="1" 
+F 0 "#PWR0104" H 6100 3200 50  0001 C CNN
+F 1 "GND" H 6105 3277 50  0000 C CNN
+F 2 "" H 6100 3450 50  0001 C CNN
+F 3 "" H 6100 3450 50  0001 C CNN
+	1    6100 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6100 3450 6300 3450
+Wire Wire Line
+	6300 3450 6300 3750
+$Comp
+L Device:R R3
+U 1 1 63DFA85C
+P 5650 3550
+F 0 "R3" H 5720 3596 50  0000 L CNN
+F 1 "R" H 5720 3505 50  0000 L CNN
+F 2 "processor2:resistor_led_tight" V 5580 3550 50  0001 C CNN
+F 3 "~" H 5650 3550 50  0001 C CNN
+	1    5650 3550
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5650 3300 5650 3400
+Wire Wire Line
+	5650 3850 6300 3850
+Wire Wire Line
+	5650 3700 5650 3850
+Wire Wire Line
+	5550 4850 5550 5400
+$Comp
+L Device:R R2
+U 1 1 63DFDC89
+P 5000 5750
+F 0 "R2" H 5070 5796 50  0000 L CNN
+F 1 "R" H 5070 5705 50  0000 L CNN
+F 2 "processor2:resistor_tight" V 4930 5750 50  0001 C CNN
+F 3 "~" H 5000 5750 50  0001 C CNN
+	1    5000 5750
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 63DFF247
+P 5000 5400
+F 0 "R1" H 5070 5446 50  0000 L CNN
+F 1 "R" H 5070 5355 50  0000 L CNN
+F 2 "processor2:resistor_tight" V 4930 5400 50  0001 C CNN
+F 3 "~" H 5000 5400 50  0001 C CNN
+	1    5000 5400
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5000 5550 5000 5600
+Wire Wire Line
+	5000 5900 5550 5900
+Wire Wire Line
+	5550 5900 5550 5400
+Connection ~ 5550 5400
+$Comp
+L power:+5V #PWR0105
+U 1 1 63E00E84
+P 5000 5250
+F 0 "#PWR0105" H 5000 5100 50  0001 C CNN
+F 1 "+5V" H 5015 5423 50  0000 C CNN
+F 2 "" H 5000 5250 50  0001 C CNN
+F 3 "" H 5000 5250 50  0001 C CNN
+	1    5000 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6300 5050 5250 5050
+Wire Wire Line
+	5250 5050 5250 5600
+Wire Wire Line
+	5250 5600 5000 5600
+Connection ~ 5000 5600
+Wire Wire Line
+	3350 3850 4550 3850
+Wire Wire Line
+	6300 4950 8000 4950
+Connection ~ 4550 3650
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 63E0F3A2
+P 3500 5450
+F 0 "J1" H 3608 5631 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 3608 5540 50  0000 C CNN
+F 2 "processor2:1pin" H 3500 5450 50  0001 C CNN
+F 3 "~" H 3500 5450 50  0001 C CNN
+	1    3500 5450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3700 5450 3800 5450
+Wire Wire Line
+	4850 5450 4850 4750
+Wire Wire Line
+	4850 4750 6300 4750
+Wire Wire Line
+	3950 5800 3800 5800
+Wire Wire Line
+	3800 5800 3800 5450
+Connection ~ 3800 5450
+Wire Wire Line
+	3800 5450 4850 5450
+$Sheet
+S 6000 2500 650  150 
+U 63DF1E84
+F0 "Sheet63DF1E83" 50
+F1 "not.sch" 50
+F2 "in" I L 6000 2550 50 
+F3 "out" I R 6650 2550 50 
+$EndSheet
+Wire Wire Line
+	6650 2550 8000 2550
+Wire Wire Line
+	8000 2550 8000 4950
+Wire Wire Line
+	4550 2550 6000 2550
+Wire Wire Line
+	4550 2550 4550 3650
+$EndSCHEMATC

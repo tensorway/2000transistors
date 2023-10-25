@@ -1,0 +1,91 @@
+
+(rules PCB pc_step_board
+  (snap_angle 
+    fortyfive_degree
+  )
+  (autoroute_settings
+    (fanout off)
+    (autoroute on)
+    (postroute on)
+    (vias on)
+    (via_costs 50)
+    (plane_via_costs 5)
+    (start_ripup_costs 100)
+    (start_pass_no 1775)
+    (layer_rule F.Cu
+      (active on)
+      (preferred_direction vertical)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.0)
+    )
+    (layer_rule B.Cu
+      (active on)
+      (preferred_direction horizontal)
+      (preferred_direction_trace_costs 1.0)
+      (against_preferred_direction_trace_costs 2.0)
+    )
+  )
+  (rule
+    (width 250.0)
+    (clear 200.2)
+    (clear 125.0 (type smd_to_turn_gap))
+    (clear 50.0 (type smd_smd))
+  )
+  (padstack "Via[0-1]_800:400_um"
+    (shape
+      (circle F.Cu 800.0 0.0 0.0)
+    )
+    (shape
+      (circle B.Cu 800.0 0.0 0.0)
+    )
+    (attach off)
+  )
+  (via 
+    "Via[0-1]_800:400_um" "Via[0-1]_800:400_um" default
+  )
+  (via 
+    "Via[0-1]_800:400_um-kicad_default" "Via[0-1]_800:400_um" "kicad_default"
+  )
+  (via_rule
+    default "Via[0-1]_800:400_um"
+  )
+  (via_rule
+    "kicad_default" "Via[0-1]_800:400_um-kicad_default"
+  )
+  (class default
+    (clearance_class default)
+    (via_rule default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+  (class "kicad_default"
+    GND +5V /sheet63CD64C4/in /sheet63CD7CBF/in /Sheet63CCF23C/in /sheet63CD2F38/in /sheet63CD474D/in "Net-(D1-Pad1)"
+    "Net-(D2-Pad1)" "Net-(D3-Pad1)" "Net-(D4-Pad1)" "Net-(D5-Pad1)" "Net-(D6-Pad1)" /sheet63CAED05/enable /sheet63CAED05/a /sheet63CAED05/b
+    /sheet63CAED05/c /sheet63CAED05/d /sheet63CAED05/e /sheet63CAAEC3/e /sheet63CAAEC3/d /sheet63CAAEC3/c /sheet63CAAEC3/b /sheet63CAAEC3/a
+    /Sheet63CB5269/e /Sheet63CB5269/d /Sheet63CB5269/c /Sheet63CB5269/b /Sheet63CB5269/a /Sheet63CB5269/clck /sheet63DA3593/in /sheet63D9F1FA/in
+    /sheet63D9AD7D/in /sheet63D969A8/in /Sheet63D89A62/in "Net-(Q1-Pad1)" /sheet63CAAEC3/enable /sheet63CAAEC3/Sheet63CA9AA7/b "Net-(Q3-Pad1)" /sheet63CAAEC3/sheet63CA9C00/b
+    "Net-(Q5-Pad1)" /sheet63CAAEC3/sheet63CA9C56/b "Net-(Q7-Pad1)" /sheet63CAAEC3/sheet63CA9CC4/b "Net-(Q10-Pad3)" /sheet63CAAEC3/sheet63CA9D36/b "Net-(Q16-Pad1)" /sheet63CAED05/Sheet63CA9AA7/b
+    "Net-(Q18-Pad1)" /sheet63CAED05/sheet63CA9C00/b "Net-(Q20-Pad1)" /sheet63CAED05/sheet63CA9C56/b "Net-(Q22-Pad1)" /sheet63CAED05/sheet63CA9CC4/b "Net-(Q24-Pad1)" /sheet63CAED05/sheet63CA9D36/b
+    "Net-(Q31-Pad1)" "Net-(Q33-Pad1)" "Net-(Q34-Pad1)" "Net-(Q35-Pad1)" "Net-(Q36-Pad1)" "Net-(Q37-Pad1)" "Net-(Q38-Pad1)" /Sheet63CB5269/Sheet63CA4C29/Sheet63CB0FED/a
+    /Sheet63CB5269/Sheet63CA4C29/sheet63CB2114/a /Sheet63CB5269/Sheet63CA4C29/sheet63CB2490/a "Net-(Q40-Pad1)" /Sheet63CB5269/Sheet63CA4C29/sheet63CB236A/a "Net-(Q41-Pad1)" "Net-(Q43-Pad1)" "Net-(Q45-Pad1)" "Net-(Q47-Pad1)"
+    /Sheet63CB5269/Sheet63CA4C29/nout "Net-(Q49-Pad1)" "Net-(Q51-Pad1)" /Sheet63CB5269/sheet63CA4D50/Sheet63CB0FED/a /Sheet63CB5269/sheet63CA4D50/sheet63CB2114/a /Sheet63CB5269/sheet63CA4D50/sheet63CB2490/a /Sheet63CB5269/sheet63CA4D50/sheet63CB236A/a "Net-(Q53-Pad1)"
+    "Net-(Q54-Pad1)" "Net-(Q56-Pad1)" "Net-(Q58-Pad1)" "Net-(Q60-Pad1)" /Sheet63CB5269/sheet63CA4D50/nout "Net-(Q62-Pad1)" /Sheet63CB5269/sheet63CA4DDE/sheet63CB2114/a /Sheet63CB5269/sheet63CA4DDE/Sheet63CB0FED/a
+    "Net-(Q64-Pad1)" /Sheet63CB5269/sheet63CA4DDE/sheet63CB2490/a "Net-(Q66-Pad1)" /Sheet63CB5269/sheet63CA4DDE/sheet63CB236A/a "Net-(Q67-Pad1)" "Net-(Q69-Pad1)" "Net-(Q71-Pad1)" "Net-(Q73-Pad1)"
+    /Sheet63CB5269/sheet63CA4DDE/nout "Net-(Q75-Pad1)" /Sheet63CB5269/sheet63CA4E3C/sheet63CB2114/a /Sheet63CB5269/sheet63CA4E3C/Sheet63CB0FED/a "Net-(Q77-Pad1)" /Sheet63CB5269/sheet63CA4E3C/sheet63CB2490/a /Sheet63CB5269/sheet63CA4E3C/sheet63CB236A/a "Net-(Q79-Pad1)"
+    "Net-(Q80-Pad1)" "Net-(Q82-Pad1)" "Net-(Q84-Pad1)" "Net-(Q86-Pad1)" /Sheet63CB5269/sheet63CA4E3C/nout "Net-(Q88-Pad1)" "Net-(Q90-Pad1)" /Sheet63CB5269/sheet63CA4EAE/Sheet63CB0FED/a
+    /Sheet63CB5269/sheet63CA4EAE/sheet63CB2114/a /Sheet63CB5269/sheet63CA4EAE/sheet63CB2490/a /Sheet63CB5269/sheet63CA4EAE/sheet63CB236A/a "Net-(Q92-Pad1)" "Net-(Q93-Pad1)" "Net-(Q95-Pad1)" "Net-(Q97-Pad1)" "Net-(Q100-Pad3)"
+    /Sheet63CB5269/sheet63CA4EAE/nout "Net-(Q101-Pad1)"
+    (clearance_class "kicad_default")
+    (via_rule kicad_default)
+    (rule
+      (width 250.0)
+    )
+    (circuit 
+      (use_layer F.Cu B.Cu)
+    )
+  )
+)

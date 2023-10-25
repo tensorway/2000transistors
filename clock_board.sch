@@ -1,0 +1,834 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 39
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L power:+5V #PWR?
+U 1 1 63C64047
+P 12550 2350
+AR Path="/63C1A95D/63C64047" Ref="#PWR?"  Part="1" 
+AR Path="/63C64047" Ref="#PWR02"  Part="1" 
+F 0 "#PWR02" H 12550 2200 50  0001 C CNN
+F 1 "+5V" H 12565 2523 50  0000 C CNN
+F 2 "" H 12550 2350 50  0001 C CNN
+F 3 "" H 12550 2350 50  0001 C CNN
+	1    12550 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63C64041
+P 12550 2450
+AR Path="/63C1A95D/63C64041" Ref="#PWR?"  Part="1" 
+AR Path="/63C64041" Ref="#PWR04"  Part="1" 
+F 0 "#PWR04" H 12550 2200 50  0001 C CNN
+F 1 "GND" H 12555 2277 50  0000 C CNN
+F 2 "" H 12550 2450 50  0001 C CNN
+F 3 "" H 12550 2450 50  0001 C CNN
+	1    12550 2450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	12000 2450 12550 2450
+Wire Wire Line
+	12000 2350 12550 2350
+Wire Wire Line
+	10600 2450 10700 2450
+Connection ~ 10600 2450
+Wire Wire Line
+	10600 2850 10600 2450
+Wire Wire Line
+	10300 2850 10600 2850
+$Comp
+L power:PWR_FLAG #FLG02
+U 1 1 63E6546C
+P 10300 2850
+F 0 "#FLG02" H 10300 2925 50  0001 C CNN
+F 1 "PWR_FLAG" H 10300 3023 50  0000 C CNN
+F 2 "" H 10300 2850 50  0001 C CNN
+F 3 "~" H 10300 2850 50  0001 C CNN
+	1    10300 2850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10150 2450 10600 2450
+Wire Wire Line
+	10450 2350 10700 2350
+Connection ~ 10450 2350
+Wire Wire Line
+	10450 2150 10450 2350
+$Comp
+L power:PWR_FLAG #FLG01
+U 1 1 63E4F744
+P 10450 2150
+F 0 "#FLG01" H 10450 2225 50  0001 C CNN
+F 1 "PWR_FLAG" H 10450 2323 50  0000 C CNN
+F 2 "" H 10450 2150 50  0001 C CNN
+F 3 "~" H 10450 2150 50  0001 C CNN
+	1    10450 2150
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x02_Male J?
+U 1 1 63C2625D
+P 9950 2350
+AR Path="/63C1A95D/63C2625D" Ref="J?"  Part="1" 
+AR Path="/63C2625D" Ref="J3"  Part="1" 
+F 0 "J3" H 10058 2531 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 10058 2440 50  0000 C CNN
+F 2 "processor2:2pin_tight" H 9950 2350 50  0001 C CNN
+F 3 "~" H 9950 2350 50  0001 C CNN
+	1    9950 2350
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10150 2350 10450 2350
+$Comp
+L Connector:Conn_01x02_Male J?
+U 1 1 63C6403B
+P 11800 2350
+AR Path="/63C1A95D/63C6403B" Ref="J?"  Part="1" 
+AR Path="/63C6403B" Ref="J4"  Part="1" 
+F 0 "J4" H 11908 2531 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 11908 2440 50  0000 C CNN
+F 2 "processor2:2pin_tight" H 11800 2350 50  0001 C CNN
+F 3 "~" H 11800 2350 50  0001 C CNN
+	1    11800 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR?
+U 1 1 63C26269
+P 10700 2350
+AR Path="/63C1A95D/63C26269" Ref="#PWR?"  Part="1" 
+AR Path="/63C26269" Ref="#PWR01"  Part="1" 
+F 0 "#PWR01" H 10700 2200 50  0001 C CNN
+F 1 "+5V" H 10715 2523 50  0000 C CNN
+F 2 "" H 10700 2350 50  0001 C CNN
+F 3 "" H 10700 2350 50  0001 C CNN
+	1    10700 2350
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR?
+U 1 1 63C26263
+P 10700 2450
+AR Path="/63C1A95D/63C26263" Ref="#PWR?"  Part="1" 
+AR Path="/63C26263" Ref="#PWR03"  Part="1" 
+F 0 "#PWR03" H 10700 2200 50  0001 C CNN
+F 1 "GND" H 10705 2277 50  0000 C CNN
+F 2 "" H 10700 2450 50  0001 C CNN
+F 3 "" H 10700 2450 50  0001 C CNN
+	1    10700 2450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x11_Male J6
+U 1 1 63D58936
+P 7950 3350
+F 0 "J6" H 8058 4031 50  0000 C CNN
+F 1 "Conn_01x11_Male" H 8058 3940 50  0000 C CNN
+F 2 "processor2:11pin_tight" H 7950 3350 50  0001 C CNN
+F 3 "~" H 7950 3350 50  0001 C CNN
+	1    7950 3350
+	-1   0    0    1   
+$EndComp
+$Sheet
+S 3850 3450 700  250 
+U 63DE8953
+F0 "sheet63DE894B" 50
+F1 "led.sch" 50
+F2 "in" I L 3850 3550 50 
+$EndSheet
+$Sheet
+S 7100 7650 700  250 
+U 63DE8950
+F0 "sheet63DE894A" 50
+F1 "led.sch" 50
+F2 "in" I L 7100 7750 50 
+$EndSheet
+$Sheet
+S 3500 7100 750  400 
+U 63DF0776
+F0 "fast_clck" 50
+F1 "astable_multivibrator.sch" 50
+F2 "out" I R 4250 7300 50 
+$EndSheet
+$Sheet
+S 3500 8000 750  400 
+U 63DF0D7A
+F0 "slow_clck" 50
+F1 "astable_multivibrator.sch" 50
+F2 "out" I R 4250 8200 50 
+$EndSheet
+$Sheet
+S 2300 2750 750  400 
+U 63DF11B6
+F0 "Sheet63DF11B5" 50
+F1 "startup_monostable.sch" 50
+F2 "out" I R 3050 2950 50 
+$EndSheet
+Wire Wire Line
+	3050 2950 3550 2950
+$Comp
+L Connector:Conn_01x11_Male J5
+U 1 1 63D58930
+P 7000 3350
+F 0 "J5" H 7108 4031 50  0000 C CNN
+F 1 "Conn_01x11_Male" H 7108 3940 50  0000 C CNN
+F 2 "processor2:11pin_tight" H 7000 3350 50  0001 C CNN
+F 3 "~" H 7000 3350 50  0001 C CNN
+	1    7000 3350
+	-1   0    0    1   
+$EndComp
+$Comp
+L Connector:Conn_01x05_Male J7
+U 1 1 63E2F161
+P 6700 4650
+F 0 "J7" H 6808 5031 50  0000 C CNN
+F 1 "Conn_01x05_Male" H 6808 4940 50  0000 C CNN
+F 2 "processor2:5pin_tight" H 6700 4650 50  0001 C CNN
+F 3 "~" H 6700 4650 50  0001 C CNN
+	1    6700 4650
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	3850 3550 3550 3550
+Wire Wire Line
+	3550 3550 3550 2950
+Connection ~ 3550 2950
+Wire Wire Line
+	3550 2950 3650 2950
+$Sheet
+S 3800 2400 500  150 
+U 63E641F5
+F0 "Sheet63E641F4" 50
+F1 "not.sch" 50
+F2 "in" I L 3800 2450 50 
+F3 "out" I R 4300 2450 50 
+$EndSheet
+Wire Wire Line
+	3800 2450 3650 2450
+Wire Wire Line
+	3650 2450 3650 2850
+Wire Wire Line
+	4300 2450 4600 2450
+$Sheet
+S 3750 1900 500  150 
+U 63E741CA
+F0 "sheet63E741C1" 50
+F1 "not.sch" 50
+F2 "in" I L 3750 1950 50 
+F3 "out" I R 4250 1950 50 
+$EndSheet
+Wire Wire Line
+	4700 2050 4600 2050
+Wire Wire Line
+	4600 2050 4600 2450
+Wire Wire Line
+	4700 1950 4250 1950
+Wire Wire Line
+	5200 2000 5900 2000
+Wire Wire Line
+	5900 2000 5900 1550
+Wire Wire Line
+	3750 1950 3250 1950
+Wire Wire Line
+	3250 1950 3250 1500
+$Comp
+L Switch:SW_Push_Dual SW1
+U 1 1 63EF2109
+P 2400 9450
+F 0 "SW1" H 2400 9735 50  0000 C CNN
+F 1 "SW_Push_Dual" H 2400 9644 50  0000 C CNN
+F 2 "processor2:push_button" H 2400 9650 50  0001 C CNN
+F 3 "~" H 2400 9650 50  0001 C CNN
+	1    2400 9450
+	1    0    0    -1  
+$EndComp
+NoConn ~ 2600 9650
+NoConn ~ 2200 9650
+$Sheet
+S 3550 9350 750  150 
+U 63F170A4
+F0 "Sheet63F170A3" 50
+F1 "rc_filter.sch" 50
+F2 "in" I L 3550 9450 50 
+F3 "out" I R 4300 9400 50 
+$EndSheet
+$Comp
+L power:+5V #PWR06
+U 1 1 63F366D0
+P 3000 8950
+F 0 "#PWR06" H 3000 8800 50  0001 C CNN
+F 1 "+5V" H 3015 9123 50  0000 C CNN
+F 2 "" H 3000 8950 50  0001 C CNN
+F 3 "" H 3000 8950 50  0001 C CNN
+	1    3000 8950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1900 9450 2200 9450
+$Comp
+L Device:R R2
+U 1 1 63F3BAFA
+P 3000 9150
+F 0 "R2" H 3070 9196 50  0000 L CNN
+F 1 "R" H 3070 9105 50  0000 L CNN
+F 2 "processor2:resistor_tight" V 2930 9150 50  0001 C CNN
+F 3 "~" H 3000 9150 50  0001 C CNN
+	1    3000 9150
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR07
+U 1 1 63F40F94
+P 1900 9550
+F 0 "#PWR07" H 1900 9300 50  0001 C CNN
+F 1 "GND" H 1905 9377 50  0000 C CNN
+F 2 "" H 1900 9550 50  0001 C CNN
+F 3 "" H 1900 9550 50  0001 C CNN
+	1    1900 9550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 63F610BE
+P 8300 8000
+F 0 "R1" H 8370 8046 50  0000 L CNN
+F 1 "R" H 8370 7955 50  0000 L CNN
+F 2 "processor2:resistor_tight" V 8230 8000 50  0001 C CNN
+F 3 "~" H 8300 8000 50  0001 C CNN
+	1    8300 8000
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR05
+U 1 1 63F6142A
+P 8300 7700
+F 0 "#PWR05" H 8300 7550 50  0001 C CNN
+F 1 "+5V" H 8315 7873 50  0000 C CNN
+F 2 "" H 8300 7700 50  0001 C CNN
+F 3 "" H 8300 7700 50  0001 C CNN
+	1    8300 7700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 7700 8300 7850
+$Comp
+L processor2:slide_switch U1
+U 1 1 63F6D9E3
+P 5300 7550
+F 0 "U1" H 5728 7771 50  0000 L CNN
+F 1 "slide_switch" H 5728 7680 50  0000 L CNN
+F 2 "processor2:slide_switch" H 5300 7550 50  0001 C CNN
+F 3 "" H 5300 7550 50  0001 C CNN
+	1    5300 7550
+	1    0    0    -1  
+$EndComp
+$Comp
+L processor2:slide_switch U2
+U 1 1 63F6EBD4
+P 6350 8450
+F 0 "U2" H 6778 8671 50  0000 L CNN
+F 1 "slide_switch" H 6778 8580 50  0000 L CNN
+F 2 "processor2:slide_switch" H 6350 8450 50  0001 C CNN
+F 3 "" H 6350 8450 50  0001 C CNN
+	1    6350 8450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	4250 7300 5200 7300
+Wire Wire Line
+	4250 8200 4700 8200
+Wire Wire Line
+	4700 8200 4700 7500
+Wire Wire Line
+	4700 7500 5200 7500
+Wire Wire Line
+	5200 7400 6250 7400
+Wire Wire Line
+	6250 7400 6250 8200
+Wire Wire Line
+	5400 9400 5400 8400
+Wire Wire Line
+	5400 8400 6250 8400
+Wire Wire Line
+	6250 8300 7000 8300
+Wire Wire Line
+	7000 8300 7000 8200
+Wire Wire Line
+	7000 7750 7100 7750
+$Comp
+L Connector:Conn_01x02_Male J12
+U 1 1 63F97501
+P 8100 8450
+F 0 "J12" H 8208 8631 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 8208 8540 50  0000 C CNN
+F 2 "processor2:2pin_tight" H 8100 8450 50  0001 C CNN
+F 3 "~" H 8100 8450 50  0001 C CNN
+	1    8100 8450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8300 8150 8300 8200
+Wire Wire Line
+	8300 8450 8300 8550
+Connection ~ 8300 8450
+Wire Wire Line
+	8300 8200 7000 8200
+Connection ~ 8300 8200
+Wire Wire Line
+	8300 8200 8300 8250
+Connection ~ 7000 8200
+Wire Wire Line
+	7000 8200 7000 7750
+Wire Wire Line
+	12950 5350 12850 5350
+$Sheet
+S 5800 2750 600  1250
+U 63E28E50
+F0 "Sheet63E28E4F" 50
+F1 "11not11.sch" 50
+F2 "ain" I L 5800 2850 50 
+F3 "a" I R 6400 2850 50 
+F4 "bin" I L 5800 2950 50 
+F5 "b" I R 6400 2950 50 
+F6 "cin" I L 5800 3050 50 
+F7 "c" I R 6400 3050 50 
+F8 "din" I L 5800 3150 50 
+F9 "d" I R 6400 3150 50 
+F10 "ein" I L 5800 3250 50 
+F11 "e" I R 6400 3250 50 
+F12 "fin" I L 5800 3350 50 
+F13 "f" I R 6400 3350 50 
+F14 "gin" I L 5800 3450 50 
+F15 "g" I R 6400 3450 50 
+F16 "hin" I L 5800 3550 50 
+F17 "h" I R 6400 3550 50 
+F18 "iin" I L 5800 3650 50 
+F19 "i" I R 6400 3650 50 
+F20 "jin" I L 5800 3750 50 
+F21 "j" I R 6400 3750 50 
+F22 "kin" I L 5800 3850 50 
+F23 "k" I R 6400 3850 50 
+$EndSheet
+Wire Wire Line
+	6400 2850 6800 2850
+Connection ~ 6800 2850
+Wire Wire Line
+	6800 2850 7750 2850
+Wire Wire Line
+	6400 2950 6800 2950
+Connection ~ 6800 2950
+Wire Wire Line
+	6800 2950 7750 2950
+Wire Wire Line
+	6400 3050 6800 3050
+Connection ~ 6800 3050
+Wire Wire Line
+	6800 3050 7750 3050
+Wire Wire Line
+	6400 3150 6800 3150
+Connection ~ 6800 3150
+Wire Wire Line
+	6800 3150 7750 3150
+Wire Wire Line
+	6400 3250 6800 3250
+Connection ~ 6800 3250
+Wire Wire Line
+	6800 3250 7750 3250
+Wire Wire Line
+	6400 3350 6800 3350
+Connection ~ 6800 3350
+Wire Wire Line
+	6800 3350 7750 3350
+Wire Wire Line
+	6400 3450 6800 3450
+Connection ~ 6800 3450
+Wire Wire Line
+	6800 3450 7750 3450
+Wire Wire Line
+	6400 3550 6800 3550
+Connection ~ 6800 3550
+Wire Wire Line
+	6800 3550 7750 3550
+Wire Wire Line
+	6400 3650 6800 3650
+Connection ~ 6800 3650
+Wire Wire Line
+	6800 3650 7750 3650
+Wire Wire Line
+	6400 3750 6800 3750
+Connection ~ 6800 3750
+Wire Wire Line
+	6800 3750 7750 3750
+Wire Wire Line
+	6400 3850 6800 3850
+Connection ~ 6800 3850
+Wire Wire Line
+	6800 3850 7750 3850
+Wire Wire Line
+	5800 2850 5750 2850
+Wire Wire Line
+	5750 2850 5750 2950
+Wire Wire Line
+	5750 3850 5800 3850
+Wire Wire Line
+	5800 3750 5750 3750
+Connection ~ 5750 3750
+Wire Wire Line
+	5750 3750 5750 3850
+Wire Wire Line
+	5750 3650 5800 3650
+Connection ~ 5750 3650
+Wire Wire Line
+	5750 3650 5750 3750
+Wire Wire Line
+	5800 3550 5750 3550
+Connection ~ 5750 3550
+Wire Wire Line
+	5750 3550 5750 3650
+Wire Wire Line
+	5800 3450 5750 3450
+Connection ~ 5750 3450
+Wire Wire Line
+	5750 3450 5750 3550
+Wire Wire Line
+	5800 3350 5750 3350
+Connection ~ 5750 3350
+Wire Wire Line
+	5750 3350 5750 3450
+Wire Wire Line
+	5800 3250 5750 3250
+Connection ~ 5750 3250
+Wire Wire Line
+	5750 3250 5750 3350
+Wire Wire Line
+	5800 3150 5750 3150
+Connection ~ 5750 3150
+Wire Wire Line
+	5750 3150 5750 3250
+Wire Wire Line
+	5800 3050 5750 3050
+Connection ~ 5750 3050
+Wire Wire Line
+	5750 3050 5750 3150
+Wire Wire Line
+	5800 2950 5750 2950
+Connection ~ 5750 2950
+Wire Wire Line
+	5750 2950 5750 3050
+Wire Wire Line
+	5750 2850 3650 2850
+Connection ~ 5750 2850
+Connection ~ 3650 2850
+Wire Wire Line
+	3650 2850 3650 2950
+$Sheet
+S 5800 4400 500  700 
+U 63E92C8B
+F0 "Sheet63E92C8A" 50
+F1 "5not5.sch" 50
+F2 "ain" I L 5800 4450 50 
+F3 "a" I R 6300 4450 50 
+F4 "bin" I L 5800 4550 50 
+F5 "b" I R 6300 4550 50 
+F6 "cin" I L 5800 4650 50 
+F7 "c" I R 6300 4650 50 
+F8 "din" I L 5800 4750 50 
+F9 "d" I R 6300 4750 50 
+F10 "ein" I L 5800 4850 50 
+F11 "e" I R 6300 4850 50 
+$EndSheet
+Wire Wire Line
+	6300 4450 6900 4450
+Wire Wire Line
+	6300 4550 6900 4550
+Wire Wire Line
+	6300 4650 6900 4650
+Wire Wire Line
+	6300 4750 6900 4750
+Wire Wire Line
+	6300 4850 6900 4850
+Wire Wire Line
+	5750 3850 5750 4450
+Wire Wire Line
+	5750 4850 5800 4850
+Connection ~ 5750 3850
+Wire Wire Line
+	5800 4750 5750 4750
+Connection ~ 5750 4750
+Wire Wire Line
+	5750 4750 5750 4850
+Wire Wire Line
+	5800 4650 5750 4650
+Connection ~ 5750 4650
+Wire Wire Line
+	5750 4650 5750 4750
+Wire Wire Line
+	5800 4550 5750 4550
+Connection ~ 5750 4550
+Wire Wire Line
+	5750 4550 5750 4650
+Wire Wire Line
+	5800 4450 5750 4450
+Connection ~ 5750 4450
+Wire Wire Line
+	5750 4450 5750 4550
+Connection ~ 8300 8250
+Wire Wire Line
+	8300 8250 8300 8450
+$Sheet
+S 13700 5250 500  150 
+U 63F0C458
+F0 "sheet63F0C454" 50
+F1 "not.sch" 50
+F2 "in" I L 13700 5300 50 
+F3 "out" I R 14200 5300 50 
+$EndSheet
+Wire Wire Line
+	12850 5650 12850 5350
+$Comp
+L Connector:Conn_01x01_Male J10
+U 1 1 63E0EA48
+P 14700 5300
+F 0 "J10" H 14672 5232 50  0000 R CNN
+F 1 "flags_enable_out" H 14672 5323 50  0000 R CNN
+F 2 "processor2:1pin" H 14700 5300 50  0001 C CNN
+F 3 "~" H 14700 5300 50  0001 C CNN
+	1    14700 5300
+	-1   0    0    1   
+$EndComp
+$Sheet
+S 12950 5150 500  300 
+U 63E01501
+F0 "sheet63E014FB" 50
+F1 "2nand.sch" 50
+F2 "a" I L 12950 5250 50 
+F3 "b" I L 12950 5350 50 
+F4 "out" I R 13450 5300 50 
+$EndSheet
+$Sheet
+S 4550 9350 750  150 
+U 63F5D8BE
+F0 "sheet63F5D8BA" 50
+F1 "not.sch" 50
+F2 "in" I L 4550 9450 50 
+F3 "out" I R 5300 9400 50 
+$EndSheet
+Wire Wire Line
+	5300 9400 5400 9400
+Wire Wire Line
+	4550 9450 4400 9450
+Wire Wire Line
+	4400 9450 4400 9400
+Wire Wire Line
+	4400 9400 4300 9400
+Wire Wire Line
+	2600 9450 3000 9450
+Wire Wire Line
+	3000 8950 3000 9000
+Wire Wire Line
+	3000 9300 3000 9450
+Connection ~ 3000 9450
+Wire Wire Line
+	3000 9450 3550 9450
+Wire Wire Line
+	1900 9450 1900 9550
+$Comp
+L Connector:Conn_01x05_Male J11
+U 1 1 63E44540
+P 6700 5700
+F 0 "J11" H 6808 6081 50  0000 C CNN
+F 1 "Conn_01x05_Male" H 6808 5990 50  0000 C CNN
+F 2 "processor2:5pin_tight" H 6700 5700 50  0001 C CNN
+F 3 "~" H 6700 5700 50  0001 C CNN
+	1    6700 5700
+	1    0    0    -1  
+$EndComp
+$Sheet
+S 5800 5450 500  700 
+U 63E4454C
+F0 "sheet63E4453A" 50
+F1 "5not5.sch" 50
+F2 "ain" I L 5800 5500 50 
+F3 "a" I R 6300 5500 50 
+F4 "bin" I L 5800 5600 50 
+F5 "b" I R 6300 5600 50 
+F6 "cin" I L 5800 5700 50 
+F7 "c" I R 6300 5700 50 
+F8 "din" I L 5800 5800 50 
+F9 "d" I R 6300 5800 50 
+F10 "ein" I L 5800 5900 50 
+F11 "e" I R 6300 5900 50 
+$EndSheet
+Wire Wire Line
+	6300 5500 6900 5500
+Wire Wire Line
+	6300 5600 6900 5600
+Wire Wire Line
+	6300 5700 6900 5700
+Wire Wire Line
+	6300 5800 6900 5800
+Wire Wire Line
+	6300 5900 6900 5900
+Wire Wire Line
+	5750 5900 5800 5900
+Wire Wire Line
+	5800 5800 5750 5800
+Connection ~ 5750 5800
+Wire Wire Line
+	5750 5800 5750 5900
+Wire Wire Line
+	5800 5700 5750 5700
+Connection ~ 5750 5700
+Wire Wire Line
+	5750 5700 5750 5800
+Wire Wire Line
+	5800 5600 5750 5600
+Connection ~ 5750 5600
+Wire Wire Line
+	5750 5600 5750 5700
+Wire Wire Line
+	5800 5500 5750 5500
+Wire Wire Line
+	5750 5500 5750 5600
+$Comp
+L Connector:Conn_01x01_Male J1
+U 1 1 63E70C15
+P 2700 1500
+F 0 "J1" H 2808 1681 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 2808 1590 50  0000 C CNN
+F 2 "processor2:1pin" H 2700 1500 50  0001 C CNN
+F 3 "~" H 2700 1500 50  0001 C CNN
+	1    2700 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	2900 1500 3250 1500
+$Comp
+L Connector:Conn_01x01_Male J2
+U 1 1 63E7700B
+P 6000 1500
+F 0 "J2" H 6108 1681 50  0000 C CNN
+F 1 "Conn_01x01_Male" H 6108 1590 50  0000 C CNN
+F 2 "processor2:1pin" H 6000 1500 50  0001 C CNN
+F 3 "~" H 6000 1500 50  0001 C CNN
+	1    6000 1500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5900 1550 6200 1550
+Wire Wire Line
+	6200 1550 6200 1500
+$Sheet
+S 4700 1850 500  300 
+U 63E741C6
+F0 "sheet63E741C0" 50
+F1 "2nand.sch" 50
+F2 "a" I L 4700 1950 50 
+F3 "b" I L 4700 2050 50 
+F4 "out" I R 5200 2000 50 
+$EndSheet
+Wire Wire Line
+	5750 4850 5750 5500
+Connection ~ 5750 4850
+Connection ~ 5750 5500
+Wire Wire Line
+	11950 5650 11950 8250
+Wire Wire Line
+	8300 8250 11950 8250
+Wire Wire Line
+	13450 5300 13700 5300
+Wire Wire Line
+	14200 5300 14500 5300
+Wire Wire Line
+	11950 5650 12850 5650
+$Sheet
+S 11200 5050 500  450 
+U 63F3BCE1
+F0 "Sheet63F3BCE0" 50
+F1 "3nor.sch" 50
+F2 "a" I L 11200 5150 50 
+F3 "b" I L 11200 5250 50 
+F4 "c" I L 11200 5350 50 
+F5 "out" I R 11700 5250 50 
+$EndSheet
+Wire Wire Line
+	11700 5250 12950 5250
+$Comp
+L Connector:Conn_01x03_Male J8
+U 1 1 63FD12F1
+P 9100 5250
+F 0 "J8" H 9208 5531 50  0000 C CNN
+F 1 "alu_sel" H 9208 5440 50  0000 C CNN
+F 2 "processor2:3pin_tight" H 9100 5250 50  0001 C CNN
+F 3 "~" H 9100 5250 50  0001 C CNN
+	1    9100 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9300 5150 9750 5150
+Connection ~ 9750 5150
+Wire Wire Line
+	9750 5150 11200 5150
+Wire Wire Line
+	9300 5250 9750 5250
+Wire Wire Line
+	9300 5350 9750 5350
+Connection ~ 9750 5350
+Text Notes 2100 9950 0    50   ~ 0
+we dont actually use \nthis type of a switch
+$Sheet
+S 10200 5300 500  150 
+U 63E01505
+F0 "sheet63E014FC" 50
+F1 "not.sch" 50
+F2 "in" I L 10200 5350 50 
+F3 "out" I R 10700 5350 50 
+$EndSheet
+$Comp
+L Connector:Conn_01x03_Male J9
+U 1 1 63F4DE2F
+P 9550 5250
+F 0 "J9" H 9658 5531 50  0000 C CNN
+F 1 "alu_sel" H 9658 5440 50  0000 C CNN
+F 2 "processor2:3pin_tight" H 9550 5250 50  0001 C CNN
+F 3 "~" H 9550 5250 50  0001 C CNN
+	1    9550 5250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9750 5250 10150 5250
+Wire Wire Line
+	10150 5250 10150 5350
+Wire Wire Line
+	10150 5350 10200 5350
+Connection ~ 9750 5250
+Wire Wire Line
+	10700 5350 11100 5350
+Wire Wire Line
+	11100 5350 11100 5250
+Wire Wire Line
+	11100 5250 11200 5250
+Wire Wire Line
+	11200 5350 11150 5350
+Wire Wire Line
+	11150 5350 11150 5550
+Wire Wire Line
+	11150 5550 9750 5550
+Wire Wire Line
+	9750 5350 9750 5550
+$EndSCHEMATC

@@ -1,0 +1,118 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 31 89
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 3350 2350 1150 650 
+U 63B94514
+F0 "Sheet63B94513" 50
+F1 "2nand.sch" 50
+F2 "a" I L 3350 2550 50 
+F3 "b" I L 3350 2750 50 
+F4 "out" O R 4500 2650 50 
+$EndSheet
+$Sheet
+S 3350 4400 1150 650 
+U 63B947B1
+F0 "sheet63B947AC" 50
+F1 "2nand.sch" 50
+F2 "a" I L 3350 4600 50 
+F3 "b" I L 3350 4800 50 
+F4 "out" O R 4500 4700 50 
+$EndSheet
+$Sheet
+S 7200 2350 1150 650 
+U 63B94857
+F0 "sheet63B94852" 50
+F1 "2nand.sch" 50
+F2 "a" I L 7200 2550 50 
+F3 "b" I L 7200 2750 50 
+F4 "out" O R 8350 2650 50 
+$EndSheet
+$Sheet
+S 7200 4400 1150 650 
+U 63B9491D
+F0 "sheet63B94918" 50
+F1 "2nand.sch" 50
+F2 "a" I L 7200 4600 50 
+F3 "b" I L 7200 4800 50 
+F4 "out" O R 8350 4700 50 
+$EndSheet
+Text HLabel 2300 2550 0    50   Input ~ 0
+data
+Text HLabel 2300 4800 0    50   Input ~ 0
+enable
+Text HLabel 9600 2650 2    50   Input ~ 0
+out
+Wire Wire Line
+	2300 2550 3350 2550
+Wire Wire Line
+	2300 4800 2500 4800
+Wire Wire Line
+	3350 2750 2500 2750
+Wire Wire Line
+	2500 2750 2500 4800
+Connection ~ 2500 4800
+Wire Wire Line
+	2500 4800 3350 4800
+Wire Wire Line
+	4500 2650 4850 2650
+Wire Wire Line
+	4850 2650 4850 2550
+Wire Wire Line
+	4850 2550 7200 2550
+Wire Wire Line
+	4850 2650 4850 3500
+Wire Wire Line
+	4850 3500 2800 3500
+Wire Wire Line
+	2800 3500 2800 4600
+Wire Wire Line
+	2800 4600 3350 4600
+Connection ~ 4850 2650
+Wire Wire Line
+	4900 4700 4900 4800
+Wire Wire Line
+	4900 4800 7200 4800
+Wire Wire Line
+	4500 4700 4900 4700
+Wire Wire Line
+	8350 2650 8650 2650
+Wire Wire Line
+	8650 2650 8650 3350
+Wire Wire Line
+	8650 3350 5700 3350
+Wire Wire Line
+	5700 3350 5700 4600
+Wire Wire Line
+	5700 4600 7200 4600
+Wire Wire Line
+	8350 4700 8650 4700
+Wire Wire Line
+	8650 4700 8650 3950
+Wire Wire Line
+	8650 3950 6250 3950
+Wire Wire Line
+	6250 3950 6250 2750
+Wire Wire Line
+	6250 2750 7200 2750
+Wire Wire Line
+	8650 2650 9600 2650
+Connection ~ 8650 2650
+Text HLabel 9600 4700 2    50   Input ~ 0
+nout
+Wire Wire Line
+	9600 4700 8650 4700
+Connection ~ 8650 4700
+$EndSCHEMATC

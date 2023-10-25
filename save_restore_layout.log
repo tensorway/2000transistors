@@ -1,0 +1,31 @@
+01-09 19:51:55 save_restore_layout.action_save_restore_layout 160:Plugin executed on: 'linux'
+01-09 19:51:55 save_restore_layout.action_save_restore_layout 161:Plugin executed with python version: '3.8.10 (default, Nov 14 2022, 12:59:47) \n[GCC 9.4.0]'
+01-09 19:51:55 save_restore_layout.action_save_restore_layout 162:KiCad build version: Unknown
+01-09 19:51:55 save_restore_layout.action_save_restore_layout 163:Save/Restore Layout plugin version: 51 started
+01-09 19:51:56 save_restore_layout.action_save_restore_layout 274:Restore layout chosen
+01-09 19:51:58 save_restore_layout.save_restore_layout 393:Getting board info
+01-09 19:51:58 save_restore_layout.save_restore_layout 395:Getting schematics info
+01-09 19:51:58 save_restore_layout.save_restore_layout 180:getting project hierarchy from schematics
+01-09 19:51:58 save_restore_layout.save_restore_layout 182:Project hierarchy looks like:
+{'63CACA63': ['sheet63CACA5E', '/home/darijan/githubs/processor/processor2/3hardware_selector.sch'], '63CA8CA1': ['sheet63CA8C9C', '/home/darijan/githubs/processor/processor2/3hardware_selector.sch'], '63CA16F5': ['sheet63CA16F0', '/home/darijan/githubs/processor/processor2/3hardware_selector.sch'], '63C9D4B7': ['sheet63C9D4B2', '/home/darijan/githubs/processor/processor2/3hardware_selector.sch'], '63C9949C': ['sheet63C99497', '/home/darijan/githubs/processor/processor2/3hardware_selector.sch'], '63C79D9B': ['Sheet63C79D9A', '/home/darijan/githubs/processor/processor2/3hardware_selector.sch'], '63BF0A71': ['sheet63BF0A69', '/home/darijan/githubs/processor/processor2/gated_full_adder.sch'], '63C11DD7': ['Sheet63C11DD6', '/home/darijan/githubs/processor/processor2/not.sch'], '63C11D1C': ['sheet63C11D15', '/home/darijan/githubs/processor/processor2/full_adder.sch'], '63BD3BAE': ['sheet63BD3BA9', '/home/darijan/githubs/processor/processor2/2nand.sch'], '63BD65B6': ['sheet63BD65B1', '/home/darijan/githubs/processor/processor2/2xor_innder.sch'], '63BD4330': ['sheet63BD4328', '/home/darijan/githubs/processor/processor2/2nand.sch'], '63BD4335': ['sheet63BD4329', '/home/darijan/githubs/processor/processor2/2nand.sch'], '63BD433A': ['sheet63BD432A', '/home/darijan/githubs/processor/processor2/2nand.sch'], '63BD433F': ['sheet63BD432B', '/home/darijan/githubs/processor/processor2/2nand.sch'], '63BD3FAF': ['Sheet63BD3FAE', '/home/darijan/githubs/processor/processor2/2xor_innder.sch'], '63C11D94': ['Sheet63C11D93', '/home/darijan/githubs/processor/processor2/2nand.sch'], '63BF17C3': ['sheet63BF17B5', '/home/darijan/githubs/processor/processor2/gated_full_adder.sch'], '63BF17BC': ['sheet63BF17B4', '/home/darijan/githubs/processor/processor2/gated_full_adder.sch'], '63BF0A78': ['sheet63BF0A6A', '/home/darijan/githubs/processor/processor2/gated_full_adder.sch'], '63D7C1C0': ['sheet63D7C1B8', '/home/darijan/githubs/processor/processor2/gated_full_adder.sch'], '63D6B889': ['Sheet63D6B888', '/home/darijan/githubs/processor/processor2/gated_full_adder.sch']}
+01-09 19:51:58 save_restore_layout.save_restore_layout 397:Getting layout info
+01-09 19:51:58 save_restore_layout.save_restore_layout 256:getting a list of all footprints on board
+01-09 19:51:58 save_restore_layout.save_restore_layout 399:Updating layout info with schematics info
+01-09 19:51:58 save_restore_layout.save_restore_layout 739:Loading saved design
+01-09 19:51:58 save_restore_layout.save_restore_layout 746:Source level is:['gated_full_adder.sch']
+01-09 19:51:58 save_restore_layout.save_restore_layout 753:Destination footprint is:'R63'
+01-09 19:51:58 save_restore_layout.save_restore_layout 754:Destination levels available are:['gated_full_adder.sch', 'full_adder.sch', '2xor_innder.sch', '2nand.sch']
+01-09 19:51:58 save_restore_layout.save_restore_layout 765:Destination level is:['gated_full_adder.sch']
+01-09 19:51:58 save_restore_layout.save_restore_layout 770:All sch files required are: ['gated_full_adder.sch', 'full_adder.sch', '2xor_innder.sch', '2nand.sch']
+01-09 19:51:58 save_restore_layout.save_restore_layout 772:Getting current schematics hash
+01-09 19:51:58 save_restore_layout.save_restore_layout 782:Source hash is:'050ab8f66aa298cc6ef9d398170f40a8'
+01-09 19:51:58 save_restore_layout.save_restore_layout 783:Destination hash is: '050ab8f66aa298cc6ef9d398170f40a8'
+01-09 19:51:58 save_restore_layout.save_restore_layout 800:Get layout data from saved board
+01-09 19:51:58 save_restore_layout.save_restore_layout 256:getting a list of all footprints on board
+01-09 19:52:01 save_restore_layout.action_save_restore_layout 311:Error when restoring layout
+Traceback (most recent call last):
+  File "/home/darijan/.kicad_plugins/save_restore_layout/action_save_restore_layout.py", line 304, in Run
+    restore_layout.restore_layout(pivot_mod, layout_file)
+  File "/home/darijan/.kicad_plugins/save_restore_layout/save_restore_layout.py", line 810, in restore_layout
+    raise ValueError("Source and destination footprint count don't match!")
+ValueError: Source and destination footprint count don't match!

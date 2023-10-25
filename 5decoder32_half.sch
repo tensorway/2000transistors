@@ -1,0 +1,929 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A1 33110 23386
+encoding utf-8
+Sheet 1 23
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Connector:Conn_01x02_Male J1
+U 1 1 63C008DC
+P 15800 6750
+F 0 "J1" H 15908 6931 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 15908 6840 50  0000 C CNN
+F 2 "processor2:2pin_tight" H 15800 6750 50  0001 C CNN
+F 3 "~" H 15800 6750 50  0001 C CNN
+	1    15800 6750
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR02
+U 1 1 63C00E65
+P 16550 6850
+F 0 "#PWR02" H 16550 6600 50  0001 C CNN
+F 1 "GND" H 16555 6677 50  0000 C CNN
+F 2 "" H 16550 6850 50  0001 C CNN
+F 3 "" H 16550 6850 50  0001 C CNN
+	1    16550 6850
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR01
+U 1 1 63C00F6E
+P 16550 6750
+F 0 "#PWR01" H 16550 6600 50  0001 C CNN
+F 1 "+5V" H 16565 6923 50  0000 C CNN
+F 2 "" H 16550 6750 50  0001 C CNN
+F 3 "" H 16550 6750 50  0001 C CNN
+	1    16550 6750
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	16550 6750 16400 6750
+Wire Wire Line
+	16000 6850 16400 6850
+$Comp
+L power:PWR_FLAG #FLG02
+U 1 1 63C0BA09
+P 16400 6450
+F 0 "#FLG02" H 16400 6525 50  0001 C CNN
+F 1 "PWR_FLAG" H 16400 6623 50  0000 C CNN
+F 2 "" H 16400 6450 50  0001 C CNN
+F 3 "~" H 16400 6450 50  0001 C CNN
+	1    16400 6450
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG01
+U 1 1 63C0BED5
+P 16200 7200
+F 0 "#FLG01" H 16200 7275 50  0001 C CNN
+F 1 "PWR_FLAG" H 16200 7373 50  0000 C CNN
+F 2 "" H 16200 7200 50  0001 C CNN
+F 3 "~" H 16200 7200 50  0001 C CNN
+	1    16200 7200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	16400 6450 16400 6750
+Connection ~ 16400 6750
+Wire Wire Line
+	16400 6750 16000 6750
+Wire Wire Line
+	16200 7200 16400 7200
+Wire Wire Line
+	16400 7200 16400 6850
+Connection ~ 16400 6850
+Wire Wire Line
+	16400 6850 16550 6850
+$Sheet
+S 6500 11900 1450 1450
+U 63BAD095
+F0 "Sheet63BAD094" 50
+F1 "5nor.sch" 50
+F2 "a" I L 6500 12100 50 
+F3 "b" I L 6500 12350 50 
+F4 "c" I L 6500 12600 50 
+F5 "d" I L 6500 12900 50 
+F6 "e" I L 6500 13200 50 
+F7 "out" I R 7950 12600 50 
+$EndSheet
+Wire Wire Line
+	6500 12100 5800 12100
+Wire Wire Line
+	6500 12350 5800 12350
+Wire Wire Line
+	6500 12600 5800 12600
+Wire Wire Line
+	6500 12900 5800 12900
+Wire Wire Line
+	6500 13200 5800 13200
+Text Label 5950 12100 0    50   ~ 0
+asel
+Text Label 5950 12350 0    50   ~ 0
+nb
+Text Label 5950 12600 0    50   ~ 0
+nc
+Text Label 5950 12900 0    50   ~ 0
+nd
+Text Label 5950 13200 0    50   ~ 0
+ne
+$Sheet
+S 6500 13750 1450 1450
+U 63BC13F9
+F0 "sheet63BC13F1" 50
+F1 "5nor.sch" 50
+F2 "a" I L 6500 13950 50 
+F3 "b" I L 6500 14200 50 
+F4 "c" I L 6500 14450 50 
+F5 "d" I L 6500 14750 50 
+F6 "e" I L 6500 15050 50 
+F7 "out" I R 7950 14450 50 
+$EndSheet
+Wire Wire Line
+	6500 13950 5800 13950
+Wire Wire Line
+	6500 14200 5800 14200
+Wire Wire Line
+	6500 14450 5800 14450
+Wire Wire Line
+	6500 14750 5800 14750
+Wire Wire Line
+	6500 15050 5800 15050
+Text Label 5950 13950 0    50   ~ 0
+asel
+Text Label 5950 14200 0    50   ~ 0
+nb
+Text Label 5950 14450 0    50   ~ 0
+nc
+Text Label 5950 14750 0    50   ~ 0
+nd
+Text Label 5950 15050 0    50   ~ 0
+e
+$Sheet
+S 6450 16000 1450 1450
+U 63BC2021
+F0 "sheet63BC2018" 50
+F1 "5nor.sch" 50
+F2 "a" I L 6450 16200 50 
+F3 "b" I L 6450 16450 50 
+F4 "c" I L 6450 16700 50 
+F5 "d" I L 6450 17000 50 
+F6 "e" I L 6450 17300 50 
+F7 "out" I R 7900 16700 50 
+$EndSheet
+Wire Wire Line
+	6450 16200 5750 16200
+Wire Wire Line
+	6450 16450 5750 16450
+Wire Wire Line
+	6450 16700 5750 16700
+Wire Wire Line
+	6450 17000 5750 17000
+Wire Wire Line
+	6450 17300 5750 17300
+Text Label 5900 16200 0    50   ~ 0
+asel
+Text Label 5900 16450 0    50   ~ 0
+nb
+Text Label 5900 16700 0    50   ~ 0
+nc
+Text Label 5900 17000 0    50   ~ 0
+d
+Text Label 5900 17300 0    50   ~ 0
+ne
+$Sheet
+S 6450 17850 1450 1450
+U 63BC2033
+F0 "sheet63BC2019" 50
+F1 "5nor.sch" 50
+F2 "a" I L 6450 18050 50 
+F3 "b" I L 6450 18300 50 
+F4 "c" I L 6450 18550 50 
+F5 "d" I L 6450 18850 50 
+F6 "e" I L 6450 19150 50 
+F7 "out" I R 7900 18550 50 
+$EndSheet
+Wire Wire Line
+	6450 18050 5750 18050
+Wire Wire Line
+	6450 18300 5750 18300
+Wire Wire Line
+	6450 18550 5750 18550
+Wire Wire Line
+	6450 18850 5750 18850
+Wire Wire Line
+	6450 19150 5750 19150
+Text Label 5900 18050 0    50   ~ 0
+asel
+Text Label 5900 18300 0    50   ~ 0
+nb
+Text Label 5900 18550 0    50   ~ 0
+nc
+Text Label 5900 18850 0    50   ~ 0
+d
+Text Label 5900 19150 0    50   ~ 0
+e
+$Sheet
+S 13800 12000 1450 1450
+U 63BC40AA
+F0 "sheet63BC409F" 50
+F1 "5nor.sch" 50
+F2 "a" I L 13800 12200 50 
+F3 "b" I L 13800 12450 50 
+F4 "c" I L 13800 12700 50 
+F5 "d" I L 13800 13000 50 
+F6 "e" I L 13800 13300 50 
+F7 "out" I R 15250 12700 50 
+$EndSheet
+Wire Wire Line
+	13800 12200 13100 12200
+Wire Wire Line
+	13800 12450 13100 12450
+Wire Wire Line
+	13800 12700 13100 12700
+Wire Wire Line
+	13800 13000 13100 13000
+Wire Wire Line
+	13800 13300 13100 13300
+Text Label 13250 12200 0    50   ~ 0
+asel
+Text Label 13250 12450 0    50   ~ 0
+nb
+Text Label 13250 12700 0    50   ~ 0
+c
+Text Label 13250 13000 0    50   ~ 0
+nd
+Text Label 13250 13300 0    50   ~ 0
+ne
+$Sheet
+S 13800 13850 1450 1450
+U 63BC40BC
+F0 "sheet63BC40A0" 50
+F1 "5nor.sch" 50
+F2 "a" I L 13800 14050 50 
+F3 "b" I L 13800 14300 50 
+F4 "c" I L 13800 14550 50 
+F5 "d" I L 13800 14850 50 
+F6 "e" I L 13800 15150 50 
+F7 "out" I R 15250 14550 50 
+$EndSheet
+Wire Wire Line
+	13800 14050 13100 14050
+Wire Wire Line
+	13800 14300 13100 14300
+Wire Wire Line
+	13800 14550 13100 14550
+Wire Wire Line
+	13800 14850 13100 14850
+Wire Wire Line
+	13800 15150 13100 15150
+Text Label 13250 14050 0    50   ~ 0
+asel
+Text Label 13250 14300 0    50   ~ 0
+nb
+Text Label 13250 14550 0    50   ~ 0
+c
+Text Label 13250 14850 0    50   ~ 0
+nd
+Text Label 13250 15150 0    50   ~ 0
+e
+$Sheet
+S 13750 16100 1450 1450
+U 63BC40CE
+F0 "sheet63BC40A1" 50
+F1 "5nor.sch" 50
+F2 "a" I L 13750 16300 50 
+F3 "b" I L 13750 16550 50 
+F4 "c" I L 13750 16800 50 
+F5 "d" I L 13750 17100 50 
+F6 "e" I L 13750 17400 50 
+F7 "out" I R 15200 16800 50 
+$EndSheet
+Wire Wire Line
+	13750 16300 13050 16300
+Wire Wire Line
+	13750 16550 13050 16550
+Wire Wire Line
+	13750 16800 13050 16800
+Wire Wire Line
+	13750 17100 13050 17100
+Wire Wire Line
+	13750 17400 13050 17400
+Text Label 13200 16300 0    50   ~ 0
+asel
+Text Label 13200 16550 0    50   ~ 0
+nb
+Text Label 13200 16800 0    50   ~ 0
+c
+Text Label 13200 17100 0    50   ~ 0
+d
+Text Label 13200 17400 0    50   ~ 0
+ne
+$Sheet
+S 13750 17950 1450 1450
+U 63BC40E0
+F0 "sheet63BC40A2" 50
+F1 "5nor.sch" 50
+F2 "a" I L 13750 18150 50 
+F3 "b" I L 13750 18400 50 
+F4 "c" I L 13750 18650 50 
+F5 "d" I L 13750 18950 50 
+F6 "e" I L 13750 19250 50 
+F7 "out" I R 15200 18650 50 
+$EndSheet
+Wire Wire Line
+	13750 18150 13050 18150
+Wire Wire Line
+	13750 18400 13050 18400
+Wire Wire Line
+	13750 18650 13050 18650
+Wire Wire Line
+	13750 18950 13050 18950
+Wire Wire Line
+	13750 19250 13050 19250
+Text Label 13200 18150 0    50   ~ 0
+asel
+Text Label 13200 18400 0    50   ~ 0
+nb
+Text Label 13200 18650 0    50   ~ 0
+c
+Text Label 13200 18950 0    50   ~ 0
+d
+Text Label 13200 19250 0    50   ~ 0
+e
+$Sheet
+S 21150 11900 1450 1450
+U 63BC746B
+F0 "sheet63BC745C" 50
+F1 "5nor.sch" 50
+F2 "a" I L 21150 12100 50 
+F3 "b" I L 21150 12350 50 
+F4 "c" I L 21150 12600 50 
+F5 "d" I L 21150 12900 50 
+F6 "e" I L 21150 13200 50 
+F7 "out" I R 22600 12600 50 
+$EndSheet
+Wire Wire Line
+	21150 12100 20450 12100
+Wire Wire Line
+	21150 12350 20450 12350
+Wire Wire Line
+	21150 12600 20450 12600
+Wire Wire Line
+	21150 12900 20450 12900
+Wire Wire Line
+	21150 13200 20450 13200
+Text Label 20600 12100 0    50   ~ 0
+asel
+Text Label 20600 12350 0    50   ~ 0
+b
+Text Label 20600 12600 0    50   ~ 0
+nc
+Text Label 20600 12900 0    50   ~ 0
+nd
+Text Label 20600 13200 0    50   ~ 0
+ne
+$Sheet
+S 21150 13750 1450 1450
+U 63BC747D
+F0 "sheet63BC745D" 50
+F1 "5nor.sch" 50
+F2 "a" I L 21150 13950 50 
+F3 "b" I L 21150 14200 50 
+F4 "c" I L 21150 14450 50 
+F5 "d" I L 21150 14750 50 
+F6 "e" I L 21150 15050 50 
+F7 "out" I R 22600 14450 50 
+$EndSheet
+Wire Wire Line
+	21150 13950 20450 13950
+Wire Wire Line
+	21150 14200 20450 14200
+Wire Wire Line
+	21150 14450 20450 14450
+Wire Wire Line
+	21150 14750 20450 14750
+Wire Wire Line
+	21150 15050 20450 15050
+Text Label 20600 13950 0    50   ~ 0
+asel
+Text Label 20600 14200 0    50   ~ 0
+b
+Text Label 20600 14450 0    50   ~ 0
+nc
+Text Label 20600 14750 0    50   ~ 0
+nd
+Text Label 20600 15050 0    50   ~ 0
+e
+$Sheet
+S 21100 16000 1450 1450
+U 63BC748F
+F0 "sheet63BC745E" 50
+F1 "5nor.sch" 50
+F2 "a" I L 21100 16200 50 
+F3 "b" I L 21100 16450 50 
+F4 "c" I L 21100 16700 50 
+F5 "d" I L 21100 17000 50 
+F6 "e" I L 21100 17300 50 
+F7 "out" I R 22550 16700 50 
+$EndSheet
+Wire Wire Line
+	21100 16200 20400 16200
+Wire Wire Line
+	21100 16450 20400 16450
+Wire Wire Line
+	21100 16700 20400 16700
+Wire Wire Line
+	21100 17000 20400 17000
+Wire Wire Line
+	21100 17300 20400 17300
+Text Label 20550 16200 0    50   ~ 0
+asel
+Text Label 20550 16450 0    50   ~ 0
+b
+Text Label 20550 16700 0    50   ~ 0
+nc
+Text Label 20550 17000 0    50   ~ 0
+d
+Text Label 20550 17300 0    50   ~ 0
+ne
+$Sheet
+S 21100 17850 1450 1450
+U 63BC74A1
+F0 "sheet63BC745F" 50
+F1 "5nor.sch" 50
+F2 "a" I L 21100 18050 50 
+F3 "b" I L 21100 18300 50 
+F4 "c" I L 21100 18550 50 
+F5 "d" I L 21100 18850 50 
+F6 "e" I L 21100 19150 50 
+F7 "out" I R 22550 18550 50 
+$EndSheet
+Wire Wire Line
+	21100 18050 20400 18050
+Wire Wire Line
+	21100 18300 20400 18300
+Wire Wire Line
+	21100 18550 20400 18550
+Wire Wire Line
+	21100 18850 20400 18850
+Wire Wire Line
+	21100 19150 20400 19150
+Text Label 20550 18050 0    50   ~ 0
+asel
+Text Label 20550 18300 0    50   ~ 0
+b
+Text Label 20550 18550 0    50   ~ 0
+nc
+Text Label 20550 18850 0    50   ~ 0
+d
+Text Label 20550 19150 0    50   ~ 0
+e
+$Sheet
+S 27200 11750 1450 1450
+U 63BC74B3
+F0 "sheet63BC7460" 50
+F1 "5nor.sch" 50
+F2 "a" I L 27200 11950 50 
+F3 "b" I L 27200 12200 50 
+F4 "c" I L 27200 12450 50 
+F5 "d" I L 27200 12750 50 
+F6 "e" I L 27200 13050 50 
+F7 "out" I R 28650 12450 50 
+$EndSheet
+Wire Wire Line
+	27200 11950 26500 11950
+Wire Wire Line
+	27200 12200 26500 12200
+Wire Wire Line
+	27200 12450 26500 12450
+Wire Wire Line
+	27200 12750 26500 12750
+Wire Wire Line
+	27200 13050 26500 13050
+Text Label 26650 11950 0    50   ~ 0
+asel
+Text Label 26650 12200 0    50   ~ 0
+b
+Text Label 26650 12450 0    50   ~ 0
+c
+Text Label 26650 12750 0    50   ~ 0
+nd
+Text Label 26650 13050 0    50   ~ 0
+ne
+$Sheet
+S 27200 13600 1450 1450
+U 63BC74C5
+F0 "sheet63BC7461" 50
+F1 "5nor.sch" 50
+F2 "a" I L 27200 13800 50 
+F3 "b" I L 27200 14050 50 
+F4 "c" I L 27200 14300 50 
+F5 "d" I L 27200 14600 50 
+F6 "e" I L 27200 14900 50 
+F7 "out" I R 28650 14300 50 
+$EndSheet
+Wire Wire Line
+	27200 13800 26500 13800
+Wire Wire Line
+	27200 14050 26500 14050
+Wire Wire Line
+	27200 14300 26500 14300
+Wire Wire Line
+	27200 14600 26500 14600
+Wire Wire Line
+	27200 14900 26500 14900
+Text Label 26650 13800 0    50   ~ 0
+asel
+Text Label 26650 14050 0    50   ~ 0
+b
+Text Label 26650 14300 0    50   ~ 0
+c
+Text Label 26650 14600 0    50   ~ 0
+nd
+Text Label 26650 14900 0    50   ~ 0
+e
+$Sheet
+S 27150 15850 1450 1450
+U 63BC74D7
+F0 "sheet63BC7462" 50
+F1 "5nor.sch" 50
+F2 "a" I L 27150 16050 50 
+F3 "b" I L 27150 16300 50 
+F4 "c" I L 27150 16550 50 
+F5 "d" I L 27150 16850 50 
+F6 "e" I L 27150 17150 50 
+F7 "out" I R 28600 16550 50 
+$EndSheet
+Wire Wire Line
+	27150 16050 26450 16050
+Wire Wire Line
+	27150 16300 26450 16300
+Wire Wire Line
+	27150 16550 26450 16550
+Wire Wire Line
+	27150 16850 26450 16850
+Wire Wire Line
+	27150 17150 26450 17150
+Text Label 26600 16050 0    50   ~ 0
+asel
+Text Label 26600 16300 0    50   ~ 0
+b
+Text Label 26600 16550 0    50   ~ 0
+c
+Text Label 26600 16850 0    50   ~ 0
+d
+Text Label 26600 17150 0    50   ~ 0
+ne
+$Sheet
+S 27150 17700 1450 1450
+U 63BC74E9
+F0 "sheet63BC7463" 50
+F1 "5nor.sch" 50
+F2 "a" I L 27150 17900 50 
+F3 "b" I L 27150 18150 50 
+F4 "c" I L 27150 18400 50 
+F5 "d" I L 27150 18700 50 
+F6 "e" I L 27150 19000 50 
+F7 "out" I R 28600 18400 50 
+$EndSheet
+Wire Wire Line
+	27150 17900 26450 17900
+Wire Wire Line
+	27150 18150 26450 18150
+Wire Wire Line
+	27150 18400 26450 18400
+Wire Wire Line
+	27150 18700 26450 18700
+Wire Wire Line
+	27150 19000 26450 19000
+Text Label 26600 17900 0    50   ~ 0
+asel
+Text Label 26600 18150 0    50   ~ 0
+b
+Text Label 26600 18400 0    50   ~ 0
+c
+Text Label 26600 18700 0    50   ~ 0
+d
+Text Label 26600 19000 0    50   ~ 0
+e
+$Sheet
+S 4850 5300 850  250 
+U 63BD6578
+F0 "Sheet63BD6577" 50
+F1 "not.sch" 50
+F2 "in" I L 4850 5400 50 
+F3 "out" I R 5700 5400 50 
+$EndSheet
+Wire Wire Line
+	4850 5400 4550 5400
+Wire Wire Line
+	4550 5400 4550 5800
+Wire Wire Line
+	4550 5800 5700 5800
+Text Label 5450 5800 0    50   ~ 0
+b
+Wire Wire Line
+	5700 5400 6150 5400
+Text Label 5850 5400 0    50   ~ 0
+nb
+$Sheet
+S 4850 6650 850  250 
+U 63BE07F8
+F0 "sheet63BE07F3" 50
+F1 "not.sch" 50
+F2 "in" I L 4850 6750 50 
+F3 "out" I R 5700 6750 50 
+$EndSheet
+Wire Wire Line
+	4850 6750 4550 6750
+Wire Wire Line
+	4550 6750 4550 7150
+Wire Wire Line
+	4550 7150 5700 7150
+Text Label 5450 7150 0    50   ~ 0
+c
+Wire Wire Line
+	5700 6750 6150 6750
+Text Label 5850 6750 0    50   ~ 0
+nc
+$Sheet
+S 4850 7950 850  250 
+U 63BE4B15
+F0 "sheet63BE4B10" 50
+F1 "not.sch" 50
+F2 "in" I L 4850 8050 50 
+F3 "out" I R 5700 8050 50 
+$EndSheet
+Wire Wire Line
+	4850 8050 4550 8050
+Wire Wire Line
+	4550 8050 4550 8450
+Wire Wire Line
+	4550 8450 5700 8450
+Text Label 5450 8450 0    50   ~ 0
+d
+Wire Wire Line
+	5700 8050 6150 8050
+Text Label 5850 8050 0    50   ~ 0
+nd
+$Sheet
+S 4850 9250 850  250 
+U 63BE9511
+F0 "sheet63BE950C" 50
+F1 "not.sch" 50
+F2 "in" I L 4850 9350 50 
+F3 "out" I R 5700 9350 50 
+$EndSheet
+Wire Wire Line
+	4850 9350 4550 9350
+Wire Wire Line
+	4550 9350 4550 9750
+Wire Wire Line
+	4550 9750 5700 9750
+Text Label 5450 9750 0    50   ~ 0
+e
+Wire Wire Line
+	5700 9350 6150 9350
+Text Label 5850 9350 0    50   ~ 0
+ne
+Wire Wire Line
+	4900 4200 4600 4200
+Wire Wire Line
+	4600 4200 4600 4450
+$Sheet
+S 6300 3950 800  800 
+U 63C05940
+F0 "Sheet63C0593F" 50
+F1 "3hardware_selector.sch" 50
+F2 "a" I L 6300 4550 50 
+F3 "na" I L 6300 4200 50 
+F4 "out" I R 7100 4350 50 
+$EndSheet
+Wire Wire Line
+	6300 4200 5750 4200
+Wire Wire Line
+	6300 4550 4600 4550
+Wire Wire Line
+	7100 4350 8100 4350
+Text Label 7550 4350 0    50   ~ 0
+asel
+$Comp
+L Connector:Conn_01x05_Male J3
+U 1 1 63C6FF96
+P 3000 4650
+F 0 "J3" H 3108 5031 50  0000 C CNN
+F 1 "Conn_01x05_Male" H 3108 4940 50  0000 C CNN
+F 2 "processor2:5pin_tight" H 3000 4650 50  0001 C CNN
+F 3 "~" H 3000 4650 50  0001 C CNN
+	1    3000 4650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	2800 4450 4600 4450
+Connection ~ 4600 4450
+Wire Wire Line
+	4600 4450 4600 4550
+Wire Wire Line
+	2800 4550 4150 4550
+Wire Wire Line
+	4150 4550 4150 5800
+Wire Wire Line
+	4150 5800 4550 5800
+Connection ~ 4550 5800
+Wire Wire Line
+	4550 7150 4000 7150
+Wire Wire Line
+	4000 7150 4000 4650
+Wire Wire Line
+	4000 4650 2800 4650
+Connection ~ 4550 7150
+Wire Wire Line
+	4550 8450 3850 8450
+Wire Wire Line
+	3850 8450 3850 4750
+Wire Wire Line
+	3850 4750 2800 4750
+Connection ~ 4550 8450
+Wire Wire Line
+	4550 9750 3750 9750
+Wire Wire Line
+	3750 9750 3750 4850
+Wire Wire Line
+	3750 4850 2800 4850
+Connection ~ 4550 9750
+$Comp
+L Connector:Conn_01x04_Male J4
+U 1 1 63C9A3E7
+P 9550 15550
+F 0 "J4" H 9658 15831 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 9658 15740 50  0000 C CNN
+F 2 "processor2:4pin_tight" H 9550 15550 50  0001 C CNN
+F 3 "~" H 9550 15550 50  0001 C CNN
+	1    9550 15550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	7950 12600 9800 12600
+Wire Wire Line
+	9800 12600 9800 15350
+Wire Wire Line
+	9800 15350 9350 15350
+Wire Wire Line
+	7950 14450 9700 14450
+Wire Wire Line
+	9700 14450 9700 15450
+Wire Wire Line
+	9700 15450 9350 15450
+Wire Wire Line
+	7900 18550 9800 18550
+Wire Wire Line
+	9800 18550 9800 15650
+Wire Wire Line
+	9800 15650 9350 15650
+Wire Wire Line
+	9350 15550 9700 15550
+Wire Wire Line
+	9700 15550 9700 16700
+Wire Wire Line
+	9700 16700 7900 16700
+$Comp
+L Connector:Conn_01x04_Male J5
+U 1 1 63CC7BC1
+P 16850 15650
+F 0 "J5" H 16958 15931 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 16958 15840 50  0000 C CNN
+F 2 "processor2:4pin_tight" H 16850 15650 50  0001 C CNN
+F 3 "~" H 16850 15650 50  0001 C CNN
+	1    16850 15650
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	15250 12700 17100 12700
+Wire Wire Line
+	17100 12700 17100 15450
+Wire Wire Line
+	17100 15450 16650 15450
+Wire Wire Line
+	15250 14550 17000 14550
+Wire Wire Line
+	17000 14550 17000 15550
+Wire Wire Line
+	17000 15550 16650 15550
+Wire Wire Line
+	15200 18650 17100 18650
+Wire Wire Line
+	17100 18650 17100 15750
+Wire Wire Line
+	17100 15750 16650 15750
+Wire Wire Line
+	16650 15650 17000 15650
+Wire Wire Line
+	17000 15650 17000 16800
+Wire Wire Line
+	17000 16800 15200 16800
+$Comp
+L Connector:Conn_01x04_Male J6
+U 1 1 63CD1395
+P 24200 15550
+F 0 "J6" H 24308 15831 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 24308 15740 50  0000 C CNN
+F 2 "processor2:4pin_tight" H 24200 15550 50  0001 C CNN
+F 3 "~" H 24200 15550 50  0001 C CNN
+	1    24200 15550
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	22600 12600 24450 12600
+Wire Wire Line
+	24450 12600 24450 15350
+Wire Wire Line
+	24450 15350 24000 15350
+Wire Wire Line
+	22600 14450 24350 14450
+Wire Wire Line
+	24350 14450 24350 15450
+Wire Wire Line
+	24350 15450 24000 15450
+Wire Wire Line
+	22550 18550 24450 18550
+Wire Wire Line
+	24450 18550 24450 15650
+Wire Wire Line
+	24450 15650 24000 15650
+Wire Wire Line
+	24000 15550 24350 15550
+Wire Wire Line
+	24350 15550 24350 16700
+Wire Wire Line
+	24350 16700 22550 16700
+$Comp
+L Connector:Conn_01x04_Male J7
+U 1 1 63CDC171
+P 30250 15400
+F 0 "J7" H 30358 15681 50  0000 C CNN
+F 1 "Conn_01x04_Male" H 30358 15590 50  0000 C CNN
+F 2 "processor2:4pin_tight" H 30250 15400 50  0001 C CNN
+F 3 "~" H 30250 15400 50  0001 C CNN
+	1    30250 15400
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	28650 12450 30500 12450
+Wire Wire Line
+	30500 12450 30500 15200
+Wire Wire Line
+	30500 15200 30050 15200
+Wire Wire Line
+	28650 14300 30400 14300
+Wire Wire Line
+	30400 14300 30400 15300
+Wire Wire Line
+	30400 15300 30050 15300
+Wire Wire Line
+	28600 18400 30500 18400
+Wire Wire Line
+	30500 18400 30500 15500
+Wire Wire Line
+	30500 15500 30050 15500
+Wire Wire Line
+	30050 15400 30400 15400
+Wire Wire Line
+	30400 15400 30400 16550
+Wire Wire Line
+	30400 16550 28600 16550
+$Comp
+L Connector:Conn_01x02_Male J2
+U 1 1 63EB7370
+P 17900 6700
+F 0 "J2" H 18008 6881 50  0000 C CNN
+F 1 "Conn_01x02_Male" H 18008 6790 50  0000 C CNN
+F 2 "processor2:2pin_tight" H 17900 6700 50  0001 C CNN
+F 3 "~" H 17900 6700 50  0001 C CNN
+	1    17900 6700
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 63EB7376
+P 18650 6800
+F 0 "#PWR0111" H 18650 6550 50  0001 C CNN
+F 1 "GND" H 18655 6627 50  0000 C CNN
+F 2 "" H 18650 6800 50  0001 C CNN
+F 3 "" H 18650 6800 50  0001 C CNN
+	1    18650 6800
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR0112
+U 1 1 63EB737C
+P 18650 6700
+F 0 "#PWR0112" H 18650 6550 50  0001 C CNN
+F 1 "+5V" H 18665 6873 50  0000 C CNN
+F 2 "" H 18650 6700 50  0001 C CNN
+F 3 "" H 18650 6700 50  0001 C CNN
+	1    18650 6700
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	18100 6700 18650 6700
+Wire Wire Line
+	18100 6800 18650 6800
+$Sheet
+S 4900 4100 850  250 
+U 63BEEC9F
+F0 "sheet63BEEC9A" 50
+F1 "not.sch" 50
+F2 "in" I L 4900 4200 50 
+F3 "out" I R 5750 4200 50 
+$EndSheet
+$EndSCHEMATC

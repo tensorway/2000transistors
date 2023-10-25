@@ -1,0 +1,31 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>KiCad BOM Example 5</title>
+    </head>
+    <body>
+    <h1>/home/darijan/githubs/processor/processor2/add_select_board.sch</h1>
+    <p>Wed 08 Feb 2023 11:42:36 PM CET</p>
+    <p>Eeschema 5.1.5+dfsg1-2build2</p>
+    <p><b>Component Count:</b>203</p>
+    <table>
+    <tr><th style='width:640px'>Ref</th><th>Qnty</th><th>Value</th><th>Part</th><th>Footprint</th><th>Description</th><th>Vendor</th></tr>
+    <tr><td>D1, D2, D3</td><td>3</td><td>LED</td><td>Device:LED</td><td>processor2:led_5mm_tight</td><td>Light emitting diode</td><td></td></tr>
+    <tr><td>J1</td><td>1</td><td>acc</td><td>Connector:Conn_01x11_Male</td><td>processor2:11pin_tight</td><td>Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J2, J10, J11</td><td>3</td><td>Conn_01x11_Male</td><td>Connector:Conn_01x11_Male</td><td>processor2:11pin_tight</td><td>Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J3</td><td>1</td><td>sp</td><td>Connector:Conn_01x11_Male</td><td>processor2:11pin_tight</td><td>Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J4</td><td>1</td><td>sp_offset</td><td>Connector:Conn_01x02_Male</td><td>processor2:2pin_tight</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J5, J6</td><td>2</td><td>Conn_01x02_Male</td><td>Connector:Conn_01x02_Male</td><td>processor2:2pin_tight</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J7</td><td>1</td><td>pc</td><td>Connector:Conn_01x11_Male</td><td>processor2:11pin_tight</td><td>Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J8</td><td>1</td><td>add_1_to_pc</td><td>Connector:Conn_01x02_Male</td><td>processor2:2pin_tight</td><td>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>J9</td><td>1</td><td>bus</td><td>Connector:Conn_01x11_Male</td><td>processor2:11pin_tight</td><td>Generic connector, single row, 01x11, script generated (kicad-library-utils/schlib/autogen/connector/)</td><td></td></tr>
+    <tr><td>Q1, Q2, Q3, Q4, Q5, Q6, Q7, Q8, Q9, Q10, Q11, Q12, Q13, Q14, Q15, Q16, Q17, Q18, Q19, Q20, Q21, Q22, Q23, Q24, Q25, Q26, Q27, Q28, Q29, Q30, Q31, Q32, Q33, Q34, Q35, Q36, Q37, Q38, Q39, Q40, Q41, Q42, Q43, Q44, Q45, Q46, Q47, Q48, Q49, Q50, Q51, Q52, Q53, Q54, Q55, Q56, Q57, Q58, Q59, Q60, Q61, Q62, Q63, Q64, Q65, Q66, Q67, Q68, Q69, Q70, Q71, Q72, Q73, Q74, Q75, Q76, Q77, Q78, Q79, Q80, Q81, Q82, Q83, Q84, Q85, Q86, Q87, Q88, Q89, Q90, Q91, Q92, Q93, Q94, Q95, Q96, Q97, Q98, Q99, Q100, Q101, Q102, Q103, Q104, Q105, Q106, Q107, Q108, Q109, Q110, Q111, Q112, Q113, Q114, Q115, Q116, Q117</td><td>117</td><td>2N7000</td><td>Transistor_FET:2N7000</td><td>processor2:2n7000_tight</td><td>0.2A Id, 200V Vds, N-Channel MOSFET, 2.6V Logic Level, TO-92</td><td></td></tr>
+    <tr><td>R1, R46, R71</td><td>3</td><td>R</td><td>Device:R</td><td>processor2:resistor_led_tight</td><td>Resistor</td><td></td></tr>
+    <tr><td>R2, R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18, R19, R20, R21, R22, R23, R24, R25, R26, R27, R28, R29, R30, R31, R32, R33, R34, R35, R36, R37, R38, R39, R40, R41, R42, R43, R44, R45, R47, R48, R49, R50, R51, R52, R53, R54, R55, R56, R57, R58, R59, R60, R61, R62, R63, R64, R65, R66, R67, R68, R69, R70, R72</td><td>69</td><td>R</td><td>Device:R</td><td>processor2:resistor_tight</td><td>Resistor</td><td></td></tr><!--TABLEROW-->
+    </table>
+    </body>
+</html>
+    

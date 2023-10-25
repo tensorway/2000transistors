@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name processor2)(type Legacy)(uri ${KIPRJMOD}/processor2.lib)(options "")(descr ""))
+)

@@ -1,0 +1,1757 @@
+ERC report (ponedjeljak, 09. siječnja 2023. 17:40:40 CET, Encoding UTF8 )
+
+***** Sheet /
+
+***** Sheet /sheet63CACA5E/
+
+***** Sheet /sheet63CA8C9C/
+
+***** Sheet /sheet63CA16F0/
+
+***** Sheet /sheet63C9D4B2/
+
+***** Sheet /sheet63C99497/
+
+***** Sheet /Sheet63C79D9A/
+
+***** Sheet /sheet63BF0A69/
+
+***** Sheet /sheet63BF0A69/Sheet63C11D93/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/Sheet63C11DD6/
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/sheet63BD3BA9/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/sheet63BD65B1/
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/sheet63BD65B1/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/sheet63BD65B1/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/sheet63BD65B1/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/sheet63BD65B1/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/Sheet63BD3FAE/
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/Sheet63BD3FAE/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/Sheet63BD3FAE/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/Sheet63BD3FAE/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A69/sheet63C11D15/Sheet63BD3FAE/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/
+
+***** Sheet /sheet63BF17B5/Sheet63C11D93/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/Sheet63C11DD6/
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/sheet63BD3BA9/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/sheet63BD65B1/
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/sheet63BD65B1/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/sheet63BD65B1/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/sheet63BD65B1/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/sheet63BD65B1/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/Sheet63BD3FAE/
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/Sheet63BD3FAE/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/Sheet63BD3FAE/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/Sheet63BD3FAE/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B5/sheet63C11D15/Sheet63BD3FAE/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/
+
+***** Sheet /sheet63BF17B4/Sheet63C11D93/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/Sheet63C11DD6/
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/sheet63BD3BA9/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/sheet63BD65B1/
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/sheet63BD65B1/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/sheet63BD65B1/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/sheet63BD65B1/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/sheet63BD65B1/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/Sheet63BD3FAE/
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/Sheet63BD3FAE/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/Sheet63BD3FAE/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/Sheet63BD3FAE/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF17B4/sheet63C11D15/Sheet63BD3FAE/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/
+
+***** Sheet /sheet63BF0A6A/Sheet63C11D93/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/Sheet63C11DD6/
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/sheet63BD3BA9/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/sheet63BD65B1/
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/sheet63BD65B1/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/sheet63BD65B1/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/sheet63BD65B1/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/sheet63BD65B1/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/Sheet63BD3FAE/
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/Sheet63BD3FAE/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/Sheet63BD3FAE/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/Sheet63BD3FAE/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63BF0A6A/sheet63C11D15/Sheet63BD3FAE/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/
+
+***** Sheet /Sheet63D6B888/Sheet63C11D93/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/Sheet63C11DD6/
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/sheet63BD3BA9/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/sheet63BD65B1/
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/sheet63BD65B1/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/sheet63BD65B1/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/sheet63BD65B1/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/sheet63BD65B1/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/Sheet63BD3FAE/
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/Sheet63BD3FAE/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/Sheet63BD3FAE/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/Sheet63BD3FAE/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /Sheet63D6B888/sheet63C11D15/Sheet63BD3FAE/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/
+
+***** Sheet /sheet63D7C1B8/Sheet63C11D93/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/Sheet63C11DD6/
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/sheet63BD3BA9/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/sheet63BD65B1/
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/sheet63BD65B1/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/sheet63BD65B1/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/sheet63BD65B1/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/sheet63BD65B1/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/Sheet63BD3FAE/
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/Sheet63BD3FAE/sheet63BD4328/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/Sheet63BD3FAE/sheet63BD4329/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/Sheet63BD3FAE/sheet63BD432A/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+***** Sheet /sheet63D7C1B8/sheet63C11D15/Sheet63BD3FAE/sheet63BD432B/
+ErrType(3): Pin connected to other pins, but not driven by any pin
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q40 is not driven (Net 13).
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q68 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q76 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q47 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q55 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q26 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q34 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q5 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q13 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q121 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q113 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q100 is unconnected.
+ErrType(2): Pin not connected (use a “no connection” flag to suppress this error)
+    @(129,54 mm, 73,66 mm): Pin 2 (Input) of component Q92 is unconnected.
+
+ ** ERC messages: 780  Errors 0  Warnings 780

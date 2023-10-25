@@ -1,0 +1,192 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A1 33110 23386
+encoding utf-8
+Sheet 60 71
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 10450 2700 3400 2150
+U 63CB0FEE
+F0 "Sheet63CB0FED" 50
+F1 "2nand.sch" 50
+F2 "a" I L 10450 3200 50 
+F3 "b" I L 10450 4100 50 
+F4 "out" I R 13850 3750 50 
+$EndSheet
+$Sheet
+S 9950 14750 4600 3100
+U 63CB1066
+F0 "Sheet63CB1065" 50
+F1 "3nand.sch" 50
+F2 "enable" I L 9950 15400 50 
+F3 "a" I L 9950 16100 50 
+F4 "b" I L 9950 17000 50 
+F5 "out" I R 14550 16300 50 
+$EndSheet
+$Sheet
+S 10450 7450 3400 2150
+U 63CB2119
+F0 "sheet63CB2114" 50
+F1 "2nand.sch" 50
+F2 "a" I L 10450 7950 50 
+F3 "b" I L 10450 8850 50 
+F4 "out" I R 13850 8500 50 
+$EndSheet
+$Sheet
+S 10550 20300 3400 2150
+U 63CB236F
+F0 "sheet63CB236A" 50
+F1 "2nand.sch" 50
+F2 "a" I L 10550 20800 50 
+F3 "b" I L 10550 21700 50 
+F4 "out" I R 13950 21350 50 
+$EndSheet
+$Sheet
+S 23850 8750 3400 2150
+U 63CB2496
+F0 "sheet63CB2490" 50
+F1 "2nand.sch" 50
+F2 "a" I L 23850 9250 50 
+F3 "b" I L 23850 10150 50 
+F4 "out" I R 27250 9800 50 
+$EndSheet
+$Sheet
+S 23850 13500 3400 2150
+U 63CB249B
+F0 "sheet63CB2491" 50
+F1 "2nand.sch" 50
+F2 "a" I L 23850 14000 50 
+F3 "b" I L 23850 14900 50 
+F4 "out" I R 27250 14550 50 
+$EndSheet
+Wire Wire Line
+	27250 9800 28100 9800
+Wire Wire Line
+	28100 9800 28100 11650
+Wire Wire Line
+	28100 11650 22800 11650
+Wire Wire Line
+	22800 11650 22800 14000
+Wire Wire Line
+	22800 14000 23850 14000
+Wire Wire Line
+	27250 14550 27750 14550
+Wire Wire Line
+	27750 14550 27750 12200
+Wire Wire Line
+	27750 12200 23400 12200
+Wire Wire Line
+	23400 12200 23400 10150
+Wire Wire Line
+	23400 10150 23850 10150
+Wire Wire Line
+	23300 8500 23300 9250
+Wire Wire Line
+	23300 9250 23850 9250
+Wire Wire Line
+	14550 16300 15900 16300
+Wire Wire Line
+	23300 16300 23300 14900
+Wire Wire Line
+	23300 14900 23850 14900
+Wire Wire Line
+	14750 8500 14750 6000
+Wire Wire Line
+	14750 6000 10050 6000
+Wire Wire Line
+	10050 6000 10050 4100
+Wire Wire Line
+	10050 4100 10450 4100
+Wire Wire Line
+	13850 8500 14750 8500
+Connection ~ 14750 8500
+Wire Wire Line
+	14750 8500 15200 8500
+Wire Wire Line
+	13850 3750 14250 3750
+Wire Wire Line
+	14250 3750 14250 6750
+Wire Wire Line
+	14250 6750 10050 6750
+Wire Wire Line
+	10050 6750 10050 7950
+Wire Wire Line
+	10050 7950 10450 7950
+Wire Wire Line
+	10550 20800 8650 20800
+Wire Wire Line
+	8650 20800 8650 18750
+Wire Wire Line
+	8650 18750 15900 18750
+Wire Wire Line
+	15900 18750 15900 16300
+Connection ~ 15900 16300
+Wire Wire Line
+	15900 16300 23300 16300
+Wire Wire Line
+	13950 21350 15800 21350
+Wire Wire Line
+	15800 21350 15800 19300
+Wire Wire Line
+	15800 19300 9500 19300
+Wire Wire Line
+	9500 19300 9500 17000
+Wire Wire Line
+	9500 17000 9950 17000
+Wire Wire Line
+	9950 15400 9550 15400
+Wire Wire Line
+	9550 15400 9550 10650
+Wire Wire Line
+	9550 10650 15200 10650
+Wire Wire Line
+	15200 10650 15200 8500
+Connection ~ 15200 8500
+Wire Wire Line
+	15200 8500 23300 8500
+Wire Wire Line
+	10450 8850 6000 8850
+Wire Wire Line
+	6000 8850 6000 12050
+Wire Wire Line
+	6000 16100 9950 16100
+Wire Wire Line
+	10450 3200 6500 3200
+Wire Wire Line
+	6500 3200 6500 17000
+Wire Wire Line
+	6500 17000 9500 17000
+Connection ~ 9500 17000
+Text HLabel 5400 12050 0    50   Input ~ 0
+clck
+Wire Wire Line
+	5400 12050 6000 12050
+Connection ~ 6000 12050
+Wire Wire Line
+	6000 12050 6000 16100
+Text HLabel 8450 21750 0    50   Input ~ 0
+data
+Wire Wire Line
+	8450 21750 10550 21750
+Wire Wire Line
+	10550 21750 10550 21700
+Text HLabel 28400 9800 2    50   Input ~ 0
+out
+Wire Wire Line
+	28400 9800 28100 9800
+Connection ~ 28100 9800
+Text HLabel 28450 14550 2    50   Input ~ 0
+nout
+Wire Wire Line
+	28450 14550 27750 14550
+Connection ~ 27750 14550
+$EndSCHEMATC

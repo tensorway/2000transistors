@@ -1,0 +1,247 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A2 23386 16535
+encoding utf-8
+Sheet 50 61
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text HLabel 6050 3000 0    50   Input ~ 0
+a0
+Text HLabel 6050 3200 0    50   Input ~ 0
+b0
+Text HLabel 6000 4000 0    50   Input ~ 0
+a1
+Text HLabel 6000 4200 0    50   Input ~ 0
+b1
+Text HLabel 5950 12600 0    50   Input ~ 0
+b9
+Text HLabel 5950 12400 0    50   Input ~ 0
+a9
+Text HLabel 5950 11600 0    50   Input ~ 0
+b8
+Text HLabel 5950 11400 0    50   Input ~ 0
+a8
+Text HLabel 5950 10600 0    50   Input ~ 0
+b7
+Text HLabel 5950 10400 0    50   Input ~ 0
+a7
+Text HLabel 5950 9500 0    50   Input ~ 0
+b6
+Text HLabel 5950 9300 0    50   Input ~ 0
+a6
+Text HLabel 5950 8500 0    50   Input ~ 0
+b5
+Text HLabel 5850 8300 0    50   Input ~ 0
+a5
+Text HLabel 5950 7300 0    50   Input ~ 0
+b4
+Text HLabel 5950 7100 0    50   Input ~ 0
+a4
+Text HLabel 5950 6300 0    50   Input ~ 0
+b3
+Text HLabel 5950 6100 0    50   Input ~ 0
+a3
+Text HLabel 5950 5300 0    50   Input ~ 0
+b2
+Text HLabel 5950 5100 0    50   Input ~ 0
+a2
+Text HLabel 6000 13700 0    50   Input ~ 0
+b10
+Text HLabel 6000 13500 0    50   Input ~ 0
+a10
+Wire Wire Line
+	6000 13500 6350 13500
+Wire Wire Line
+	6350 13700 6000 13700
+Wire Wire Line
+	5950 12400 6300 12400
+Wire Wire Line
+	6300 12600 5950 12600
+Wire Wire Line
+	5950 11600 6300 11600
+Wire Wire Line
+	6300 11400 5950 11400
+Wire Wire Line
+	5950 10600 6300 10600
+Wire Wire Line
+	6300 10400 5950 10400
+Wire Wire Line
+	5950 9500 6300 9500
+Wire Wire Line
+	6300 9300 5950 9300
+Wire Wire Line
+	5950 8500 6300 8500
+Wire Wire Line
+	5950 7300 6300 7300
+Wire Wire Line
+	5950 7100 6300 7100
+Wire Wire Line
+	5950 6300 6300 6300
+Wire Wire Line
+	6300 6100 5950 6100
+Wire Wire Line
+	5950 5300 6300 5300
+Wire Wire Line
+	6300 5100 5950 5100
+Wire Wire Line
+	6000 4200 6300 4200
+Wire Wire Line
+	6300 4000 6000 4000
+Wire Wire Line
+	6050 3200 6300 3200
+Wire Wire Line
+	6300 3000 6050 3000
+Text HLabel 7500 3000 2    50   Input ~ 0
+out0
+Wire Wire Line
+	7500 3000 7150 3000
+Text HLabel 7500 4000 2    50   Input ~ 0
+out1
+Wire Wire Line
+	7500 4000 7150 4000
+Text HLabel 7500 5100 2    50   Input ~ 0
+out2
+Wire Wire Line
+	7500 5100 7150 5100
+Text HLabel 7500 6100 2    50   Input ~ 0
+out3
+Wire Wire Line
+	7500 6100 7150 6100
+Text HLabel 7500 7100 2    50   Input ~ 0
+out4
+Wire Wire Line
+	7500 7100 7150 7100
+Text HLabel 7500 8300 2    50   Input ~ 0
+out5
+Wire Wire Line
+	7500 8300 7150 8300
+Text HLabel 7500 9300 2    50   Input ~ 0
+out6
+Wire Wire Line
+	7500 9300 7150 9300
+Text HLabel 7500 10400 2    50   Input ~ 0
+out7
+Wire Wire Line
+	7500 10400 7150 10400
+Text HLabel 7500 11400 2    50   Input ~ 0
+out8
+Wire Wire Line
+	7500 11400 7150 11400
+Text HLabel 7500 12400 2    50   Input ~ 0
+out9
+Wire Wire Line
+	7500 12400 7150 12400
+Text HLabel 7550 13500 2    50   Input ~ 0
+out10
+Wire Wire Line
+	7550 13500 7200 13500
+$Sheet
+S 6300 2700 850  650 
+U 63C67EEB
+F0 "Sheet63C67EEA" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 3200 50 
+F3 "a" I L 6300 3000 50 
+F4 "out" I R 7150 3000 50 
+$EndSheet
+Wire Wire Line
+	6300 8300 5850 8300
+$Sheet
+S 6300 3700 850  650 
+U 63C6EFD0
+F0 "sheet63C6EFCB" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 4200 50 
+F3 "a" I L 6300 4000 50 
+F4 "out" I R 7150 4000 50 
+$EndSheet
+$Sheet
+S 6300 4800 850  650 
+U 63C6F8F8
+F0 "sheet63C6F8F3" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 5300 50 
+F3 "a" I L 6300 5100 50 
+F4 "out" I R 7150 5100 50 
+$EndSheet
+$Sheet
+S 6300 5800 850  650 
+U 63C70234
+F0 "sheet63C7022F" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 6300 50 
+F3 "a" I L 6300 6100 50 
+F4 "out" I R 7150 6100 50 
+$EndSheet
+$Sheet
+S 6300 6800 850  650 
+U 63C70B80
+F0 "sheet63C70B7B" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 7300 50 
+F3 "a" I L 6300 7100 50 
+F4 "out" I R 7150 7100 50 
+$EndSheet
+$Sheet
+S 6300 8000 850  650 
+U 63C71478
+F0 "sheet63C71473" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 8500 50 
+F3 "a" I L 6300 8300 50 
+F4 "out" I R 7150 8300 50 
+$EndSheet
+$Sheet
+S 6300 9000 850  650 
+U 63C71D90
+F0 "sheet63C71D8B" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 9500 50 
+F3 "a" I L 6300 9300 50 
+F4 "out" I R 7150 9300 50 
+$EndSheet
+$Sheet
+S 6300 10100 850  650 
+U 63C72704
+F0 "sheet63C726FF" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 10600 50 
+F3 "a" I L 6300 10400 50 
+F4 "out" I R 7150 10400 50 
+$EndSheet
+$Sheet
+S 6300 11100 850  650 
+U 63C72FF0
+F0 "sheet63C72FEB" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 11600 50 
+F3 "a" I L 6300 11400 50 
+F4 "out" I R 7150 11400 50 
+$EndSheet
+$Sheet
+S 6300 12100 850  650 
+U 63C738C8
+F0 "sheet63C738C3" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6300 12600 50 
+F3 "a" I L 6300 12400 50 
+F4 "out" I R 7150 12400 50 
+$EndSheet
+$Sheet
+S 6350 13200 850  650 
+U 63C741C0
+F0 "sheet63C741BB" 50
+F1 "2nor.sch" 50
+F2 "b" I L 6350 13700 50 
+F3 "a" I L 6350 13500 50 
+F4 "out" I R 7200 13500 50 
+$EndSheet
+$EndSCHEMATC
